@@ -19,3 +19,7 @@
 ## Links
 
 * [SingularityNET links](links/singularitynet-links.md)
+
+## Knowledge Base
+
+* [Overview](knowledge-base/overview.md)
