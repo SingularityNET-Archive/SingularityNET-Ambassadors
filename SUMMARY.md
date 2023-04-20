@@ -8,3 +8,4 @@
   * [Join the Discord server](getting-started/join-the-discord-server.md)
   * [Pick a task to get started](getting-started/pick-a-task-to-get-started.md)
   * [Deworktask guide](getting-started/deworktask-guide.md)
+  * [Open Google Drive folder](getting-started/open-google-drive-folder.md)
