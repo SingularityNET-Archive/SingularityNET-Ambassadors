@@ -1,6 +1,6 @@
 # SingularityNET links
 
-**SingularityNET**
+## **SingularityNET**
 
 * SingularityNET [Discord](https://discord.gg/snet)
 * SingularityNET [Main Telegram Channel](https://t.me/singularitynet)
@@ -9,7 +9,7 @@
 * SingularityNET [Twitter](https://twitter.com/singularity\_net) and [Facebook](https://www.facebook.com/singularityNET.io)
 * SingularityNET [Jobs Page](https://singularitynet.io/jobs)&#x20;
 
-**SingularityDAO**
+## **SingularityDAO**
 
 SingularityDAO [Telegram Community](https://t.me/SingDAO)
 
@@ -31,18 +31,25 @@ SingularityDAO [Reddit](https://www.reddit.com/r/SingularityDAO/)
 
 SingularityDAO - [Subscribe to our newsletter](https://singularitynet.us16.list-manage.com/subscribe/post?u=d74195510c25bf501caf3011d\&id=de16fc7da6\&mc\_cid=90331ef027\&mc\_eid=UNIQID).
 
-**NuNet**
+## **NuNet**
 
-* NuNet [Telegram](https://t.me/NuNet\_Community)
-* NuNet [Website](https://nunet.io/)
-* NuNet [Discord](https://discord.gg/snet)
-* NuNet [Whitepaper](https://nunet-io.github.io/public/NuNet\_Whitepaper.pdf)
-* NuNet [Twitter](https://twitter.com/nunet\_global)
-* NuNet [Gitlab](https://gitlab.com/nunet)
-* NuNet [DevExchange](https://devexchange.nunet.io/)
-* NuNet [Youtube](https://www.youtube.com/channel/UCLTTOrMYDTbQYHs1HCFPtfA)
+NuNet [Telegram](https://t.me/NuNet\_Community)
 
-**Rejuve**
+NuNet [Website](https://nunet.io/)
+
+NuNet [Discord](https://discord.gg/snet)
+
+NuNet [Whitepaper](https://nunet-io.github.io/public/NuNet\_Whitepaper.pdf)
+
+NuNet [Twitter](https://twitter.com/nunet\_global)
+
+NuNet [Gitlab](https://gitlab.com/nunet)
+
+NuNet [DevExchange](https://devexchange.nunet.io/)
+
+NuNet [Youtube](https://www.youtube.com/channel/UCLTTOrMYDTbQYHs1HCFPtfA)
+
+## **Rejuve**
 
 Rejuve [Website](https://rejuve.ai/)\
 Rejuve [Telegram Community](https://t.me/rejuvecommunity)\
