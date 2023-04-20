@@ -16,6 +16,6 @@
 * [How rewards are distributed](rewards/how-rewards-are-distributed.md)
 * [Past disbursements](rewards/past-disbursements.md)
 
-## Group 1
+## Links
 
-* [SingularityNET links](group-1/singularitynet-links.md)
+* [SingularityNET links](links/singularitynet-links.md)
