@@ -2,7 +2,6 @@
 description: >-
   The SingularityNET Ambassador Program is dedicated to growing awareness of the
   importance of decentralized AI/AGI and the SingularityNET ecosystem.
-layout: landing
 ---
 
 # SingularityNET-Ambassadors
