@@ -15,6 +15,8 @@ The SingularityNET Ambassador Program is dedicated to growing awareness of the i
 For background information on the SingularityNET Ecosystem, see [https://singularitynet.io/ecosystem](https://singularitynet.io/ecosystem). Our main drivers are transparency, decentralization, and involvement. To uphold these values, community members are fully involved in decision-making processes, including how tokens are spent. This is achieved through regular Town Hall meetings, which are open and accessible to all members of the community. Together, we can work towards creating a world where AGI benefits all of humanity.\
 
 
-Currently this space is in development. It aims to be the single source of truth for the Ambassador Program. Besides this page you can check the available tasks on Dework - [app.dework.xyz/singularitynet-ambas](https://app.dework.xyz/singularitynet-ambas)\
+Currently this space is in development. It aims to be the single source of truth for the Ambassador Program.&#x20;
+
+Besides this page you can check the available tasks on Dework - [app.dework.xyz/singularitynet-ambas](https://app.dework.xyz/singularitynet-ambas)\
 \
 You can check the Getting started section, including the sign-up form, the meeting schedule and notes, and the rewards distribution.
