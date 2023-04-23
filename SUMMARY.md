@@ -42,3 +42,4 @@
   * [Overview of Ambassadors Program](governance-framework/overview-of-ambassadors-program.md)
   * [Principles and Assumptions](governance-framework/principles-and-assumptions.md)
   * [Framework](governance-framework/framework.md)
+  * [Implementation and Adoption](governance-framework/implementation-and-adoption.md)
