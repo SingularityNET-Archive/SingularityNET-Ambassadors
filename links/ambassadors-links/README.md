@@ -1,6 +1,6 @@
 # Ambassadors Links
 
-Ambassador's links as maintained on this [link.tree](https://linktr.ee/snet\_ambassadors\_program)
+Ambassador's links as maintained on this [linktr](https://linktr.ee/snet\_ambassadors\_program).
 
 Posted by Felix, Saturday, 22nd April 2023
 
