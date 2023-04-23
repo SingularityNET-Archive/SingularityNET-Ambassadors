@@ -1,4 +1,8 @@
-# SingularityNET Ambassadors Governance Framework
+---
+description: SingularityNET Ambassadors Governance Framework
+---
+
+# Governance Framework
 
 DRAFT | OPEN TO EDIT FOR EVERYONE
 

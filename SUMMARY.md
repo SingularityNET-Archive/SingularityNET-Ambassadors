@@ -36,4 +36,4 @@
 
 ***
 
-* [SingularityNET Ambassadors Governance Framework](singularitynet-ambassadors-governance-framework.md)
+* [Governance Framework](governance-framework.md)
