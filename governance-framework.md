@@ -55,22 +55,30 @@ Thanks also to [OpenAI’s GPT4](https://openai.com/product/gpt-4) for helping o
 
 ## Document Process
 
-* Ideation phase
+### Ideation phase
+
 * **April 9th to April 26th:**
 * Snet Ambassadors & Community members to review and take off, change or add content, comments, remarks, suggestions
-* Refinement phase
+
+### Refinement phase
+
 * TO BE DEFINED
 * Series of Ambassadors group calls to discuss the document
 
 Change to 2 to 3 weeks
 
-* Finalization Phase
+### Finalization Phase
+
 * TO BE DEFINED
 * Finalizing the document to its finished format and content
-* Consent Phase
+
+### Consent Phase
+
 * TO BE DEFINED
 * Consent session to agree on the finalized documents status and the agreement of implementing the framework to the Ambassadors program
 * Submitting document on the Blockchain
+
+## Assumptions
 
 When starting to look at Governance, let's start with some assumptions first:
 
@@ -87,7 +95,7 @@ When starting to look at Governance, let's start with some assumptions first:
 11. It should be understood the purpose of the guild is to promote The SingularityNet Ecosystem and partner projects in a responsible manner with a vision aligned with the foundations.
 12. Actions or decisions of the SingularityNet Ambassador Guild should be weighed against perception regarding SingularityNet and responsible AGI as a whole.
 
-Refined Assumptions:
+## Refined Assumptions:
 
 Assumptions of Governance in the Ambassador Program:
 
@@ -103,11 +111,11 @@ Assumptions of Governance in the Ambassador Program:
 
 6\.
 
-#### Introduction <a href="#_432yewfpf3f8" id="_432yewfpf3f8"></a>
+## Introduction <a href="#_432yewfpf3f8" id="_432yewfpf3f8"></a>
 
 The introduction provides an overview of the SingularityNET Ambassador Program. It aims to set the stage for the discussion of the new Governance Framework.
 
-**1.1. Purpose of the White Paper**
+### **1.1. Purpose of the White Paper**
 
 The purpose of this document is to ideate and propose a framework for the SingularityNET Ambassadors program.
 
@@ -134,7 +142,7 @@ It strives to ensure transparency and encourages open discussion, feedback, and 
 
 Ultimately, the whitepaper seeks to demonstrate the potential benefits of the proposed governance framework and establish a solid foundation for the SingularityNET Ambassadors program as it continues to evolve and grow within an decentralized and on-chain AI ecosystem .
 
-**1.2. Background and Context**
+### **1.2. Background and Context**
 
 The SingularityNET Ambassadors program was established in April 2022 to harness the passion and talents of community members, allowing them to contribute to the growth and development of the SingularityNET ecosystem. The program has seen the formation of various workgroups and guilds, each focusing on specific projects and areas of activity, ranging from content creation and translation to outreach and technical support.
 
@@ -144,7 +152,7 @@ The development of a governance framework for the SingularityNET Ambassadors pro
 
 This document is set against the backdrop of the rapidly evolving world of decentralized AI and blockchain technology, in which innovative governance models are crucial for fostering growth, collaboration, and sustainability. By outlining the proposed governance framework for the SingularityNET Ambassadors program, this whitepaper contributes to the broader conversation on decentralized governance and provides a model that can be adapted and adopted by other projects within the ecosystem.
 
-**1.3. Goals and Objectives**
+### **1.3. Goals and Objectives**
 
 The primary goal of this whitepaper is to present a comprehensive and detailed outline of the proposed governance framework for the SingularityNET Ambassadors program. To achieve this goal, the whitepaper aims to:
 
@@ -157,9 +165,9 @@ The primary goal of this whitepaper is to present a comprehensive and detailed o
 
 By addressing these objectives, the whitepaper aims to facilitate a deeper understanding of the proposed governance framework and its potential benefits for the SingularityNET Ambassadors program and the wider decentralized AI ecosystem.
 
-#### Overview of SingularityNET Ambassadors Program <a href="#_9qbxqikqaj59" id="_9qbxqikqaj59"></a>
+## Overview of SingularityNET Ambassadors Program <a href="#_9qbxqikqaj59" id="_9qbxqikqaj59"></a>
 
-**2.1. Ambassadors Program Structure**
+### **2.1. Ambassadors Program Structure**
 
 The SingularityNET Ambassadors program is aiming ¸to build a decentralized and community-driven initiative, providing a platform for individuals with diverse skills, talents, and passions to contribute to the growth and development of the SingularityNET ecosystem. The program's structure aims to facilitate decentralization, involvement, and collaboration.
 
@@ -169,7 +177,7 @@ Ambassadors can participate in various roles within the program, such as content
 
 To further promote decentralization and community involvement, the program encourages community members to take the initiative in forming new workgroups and guilds based on their interests and the needs of the SingularityNET ecosystem. This bottom-up approach to program organization ensures that the Ambassadors program remains agile, responsive, and adaptive to the ever-evolving landscape of decentralized AI and blockchain technology.
 
-**2.2. Workgroups and Guilds**
+### **2.2. Workgroups and Guilds**
 
 The workgroups and guilds within the SingularityNET Ambassadors program are essential components that facilitate collaboration, specialization, and focus on various aspects of the ecosystem. These groups bring together ambassadors with specific skills, interests, and objectives, enabling them to work effectively on projects and activities that align with their expertise. Some of the current guilds within the program include:
 
@@ -180,7 +188,7 @@ The workgroups and guilds within the SingularityNET Ambassadors program are esse
 
 These guilds represent a few examples of the diverse workgroups within the SingularityNET Ambassadors program, each playing a vital role in advancing the ecosystem. As the program continues to evolve, new guilds may be established to address emerging needs and opportunities, ensuring that the program remains dynamic and responsive to the ever-changing landscape of decentralized AI and blockchain technology.
 
-**2.3. Roles and Responsibilities of Ambassadors**
+### **2.3. Roles and Responsibilities of Ambassadors**
 
 Roles document by Fly You Fools
 
@@ -202,11 +210,11 @@ Translators work within the Marketing Guild??(should we align roles with guilds?
 
 As the Ambassadors program grows and evolves, new roles and responsibilities may emerge to meet the changing needs and opportunities within the ecosystem. New roles, workgroups and guilds will be supported through an incubation process. By providing a flexible and inclusive environment for community members to contribute, the program ensures a diverse and dynamic foundation for the ongoing growth and success of the SingularityNET ecosystem.
 
-#### Governance Principles and Assumptions <a href="#_wskifdjdxlgb" id="_wskifdjdxlgb"></a>
+## Governance Principles and Assumptions <a href="#_wskifdjdxlgb" id="_wskifdjdxlgb"></a>
 
 This section outlines the key principles and assumptions that guide the development of the governance framework. These principles serve as the foundation upon which the framework is built, and they include aspects such as decentralization, empowerment of engaged contributors, alternative decision-making processes, and the importance of diversity and inclusion.
 
-**3.1. Separation of Governance from Monetized Tokens**
+### **3.1. Separation of Governance from Monetized Tokens**
 
 3.1. Importance of separating monetized tokens from governance processes.
 
@@ -220,7 +228,7 @@ In a decentralized ecosystem like the SingularityNET Ambassadors program, the go
 
 In summary, separating monetized tokens from the governance process is crucial for creating a fair, transparent, and efficient decision-making framework in a decentralized ecosystem like the SingularityNET Ambassadors program. This separation fosters inclusivity, encourages active participation, minimizes conflicts of interest, and ultimately enhances the quality of decisions made within the ecosystem.
 
-**3.2. Empowering Engaged Contributors**
+### **3.2. Empowering Engaged Contributors**
 
 The role of engaged contributors is crucial for ensuring that the platform remains dynamic, innovative, and inclusive. The governance framework must prioritize the contributions of active community members, creating an environment that fosters collaboration and growth.
 
@@ -234,7 +242,7 @@ Fourthly, creating inclusive opportunities ensures that the ecosystem caters to 
 
 Lastly, nurturing a sense of ownership among community members is essential for the long-term success of the ecosystem. By providing the necessary tools, resources, and support, contributors can take a grass roots initiative to lead projects, propose changes, and actively participate in the governance process. This sense of ownership fosters a strong sense of commitment and responsibility towards the success of the program.
 
-**3.3. Alternative Decision-making Processes**
+### **3.3. Alternative Decision-making Processes**
 
 In a decentralized ecosystem, adopting alternative governance and decision-making processes is essential to create a more inclusive, equitable, and effective environment. While blockchain token-based voting is a common method for implementing bottom-up decisions from ecosystem participants, it can sometimes lead to imbalances in power and decision-making authority.
 
@@ -246,7 +254,7 @@ Another important aspect of alternative governance models is the incorporation o
 
 A culture of experimentation and learning can enable exploration of alternative decision-making processes that aim for a decentralized ecosystem. By encouraging community members to explore and test new governance models and processes, the ecosystem can continuously evolve and improve, adapting to the changing needs and desires of its participants.
 
-**3.4. Scaling through Decentralization**
+### **3.4. Scaling through Decentralization**
 
 The outlined design aims to recognize each guild and working group as an independent and self-sovereign entity, so that the ecosystem can efficiently scale and adapt to changing conditions, much like the cells in a human body. This essay will discuss the importance of embracing a cellular-inspired governance framework to ensure long-term success in a decentralized ecosystem.
 
@@ -258,7 +266,7 @@ In addition, the cellular-inspired governance framework promotes the importance 
 
 Moreover, this governance model supports the idea of diversity and specialization within the ecosystem. By allowing each guild and working group to focus on their specific area of expertise, the ecosystem can tap into a wide range of skills, knowledge, and perspectives. This diversity not only fosters innovation but also ensures that the ecosystem remains resilient and adaptable in the face of change.
 
-**3.5. Documentation and Transparency**
+### **3.5. Documentation and Transparency**
 
 On-chain documentation of governance agreements is crucial for promoting transparency and trust within the decentralized ecosystem. By recording decisions, agreements, and actions on the blockchain, the ecosystem creates an immutable and tamper-proof record of its governance processes. This public record not only fosters trust among participants but also ensures that the ecosystem remains accountable to its values and objectives.
 
@@ -278,7 +286,7 @@ Text be transformed into JSON file (chunked files which match max size of transa
 
 Transaction be linked to single UTXO
 
-**3.6. Avoiding Popularity and Representative Roles**
+### **3.6. Avoiding Popularity and Representative Roles**
 
 Popularity contests can distort the decision-making process in a decentralized ecosystem. When decisions are influenced by the popularity of certain individuals or groups, the governance process may become skewed towards the preferences of a select few rather than the collective wisdom of the entire community. This can lead to a centralization of power, which undermines the core principles of decentralization and may stifle innovation and diversity within the ecosystem.
 
@@ -288,7 +296,7 @@ By avoiding popularity contests and representative roles, the decentralized ecos
 
 Furthermore, by eschewing popularity and representative roles, the ecosystem can more effectively adapt to change and embrace new ideas. When decisions are made by a diverse group of participants rather than a select few, the ecosystem is better positioned to identify and respond to emerging challenges and opportunities.
 
-**3.7. Emphasizing Diversity and Inclusion**
+### **3.7. Emphasizing Diversity and Inclusion**
 
 Diversity and inclusion are essential for driving innovation within a decentralized ecosystem. A diverse community of participants brings together a broad array of ideas, experiences, and perspectives, which can spark creative solutions and novel approaches to problem-solving. In the context of the cellular-inspired governance framework, this diversity allows each guild and working group to contribute unique insights and capabilities to the overall success of the SingularityNET ecosystem.
 
@@ -298,11 +306,11 @@ Emphasizing diversity and inclusion in the governance framework also contributes
 
 In the context of the cellular-inspired governance framework, emphasizing diversity and inclusion ensures that each guild and working group operates as an independent and self-sovereign entity, while also contributing to the larger ecosystem. This approach fosters collaboration and mutual support among the various groups, enabling the ecosystem to function as a cohesive and adaptive whole.
 
-#### Governance Framework <a href="#_rmq5fv5wbn5w" id="_rmq5fv5wbn5w"></a>
+## Governance Framework <a href="#_rmq5fv5wbn5w" id="_rmq5fv5wbn5w"></a>
 
 In this chapter, the proposed governance framework is presented in detail. It covers the use of project/guild native assets and token cycles, the distribution and utilization of tokens, workgroup and guild-specific decision-making, and the implementation of NFTs for capturing engagements. This section aims to provide a thorough understanding of how the governance framework is designed to function and the benefits it can bring to the program.
 
-**4.1. Project/Guild Native Assets and Token Cycles**
+### **4.1. Project/Guild Native Assets and Token Cycles**
 
 A key challenge is to create an equitable and effective governance framework that recognizes and rewards the contributions of its participants.
 
@@ -324,7 +332,7 @@ By implementing a cycle-based token minting system, our objective is the mainten
 
 In summary, cycle-based token minting for each guild is a powerful tool for promoting equitable and effective governance within the SingularityNET ecosystem. By recognizing the contributions of active participants and minimizing the influence of external actors, this approach helps to maintain the decentralized nature of the project and ensures that decision-making power is held by those who have demonstrated genuine engagement and commitment.
 
-**4.2. Distribution and Use of Tokens**
+### **4.2. Distribution and Use of Tokens**
 
 Tokens are distributed to ambassadors based on the tasks they complete within their respective guilds and working groups. Each token distribution is recorded in a transaction metadata that contains direct links to the accomplished tasks and the related received tokens. This transparency helps to create a clear record of each ambassador's contributions and promotes accountability within the ecosystem.
 
@@ -350,7 +358,7 @@ _**Discussion:** Will the guild- cellular tokens be an expense drag? How will th
 
 
 
-**4.3. Workgroup/Guild-specific Decision-making**
+### **4.3. Workgroup/Guild-specific Decision-making**
 
 4.3. Workgroup/Guild-specific Decision-making: Consent Mechanisms and NFT Holders
 
@@ -374,7 +382,7 @@ Decisions will be made through different methods of agreement specific to a grou
 
 Decisions will be made through different methods of agreement specific to a group's needs. NFT-holders will collaborate, listen, and use either consensus or consent mechanisms, aiming to reach agreement in what they believe to be the best interests of the project.
 
-**4.4. NFTs for Capturing Engagements**
+### **4.4. NFTs for Capturing Engagements**
 
 The role of NFTs in the SingularityNET ecosystem goes beyond merely serving as proof of an ambassador's engagement and contribution to the project. In this section, we will outline additional information and potential applications for NFTs within the context of the ecosystem that have not been discussed in previous chapters.
 
@@ -401,11 +409,11 @@ The NFTs can have the discord id of the person in their metadata and DIDs can be
 
 In conclusion, the use of NFTs within the SingularityNET ecosystem extends beyond just representing an ambassador's engagement and contributions. By unlocking exclusive benefits, facilitating cross-collaboration, showcasing achievements, and introducing gamification elements, NFTs can play a crucial role in fostering a more connected, motivated, and innovative community, ultimately supporting the success of the SingularityNET ecosystem.
 
-#### Implementation and Adoption of the Governance Framework <a href="#_6siprtd7aiwt" id="_6siprtd7aiwt"></a>
+## Implementation and Adoption of the Governance Framework <a href="#_6siprtd7aiwt" id="_6siprtd7aiwt"></a>
 
 This section discusses the practical aspects of implementing and adopting the new governance framework. It outlines a transition plan and timeline, as well as strategies for involving stakeholders and educating the community about the framework. In addition, it covers the monitoring and evaluation process to ensure that the governance framework is effective in achieving its goals.
 
-**5.1. Transition Plan and Timeline**
+### **5.1. Transition Plan and Timeline**
 
 The successful implementation of the proposed governance framework within the SingularityNET Ambassadors program requires a clear and comprehensive plan, outlining the necessary steps and timeline. In this section, we will present a high-level overview of the key stages involved in implementing the governance framework, providing a roadmap to facilitate a smooth transition and integration into the existing ecosystem.
 
@@ -417,7 +425,7 @@ The successful implementation of the proposed governance framework within the Si
 
 The implementation of the governance framework within the SingularityNET ecosystem will be a dynamic and evolving process, requiring the active engagement and collaboration of all stakeholders. By following a clear and structured roadmap, the new framework can be successfully integrated, supporting the continued growth and success of the SingularityNET project.
 
-**5.2. Stakeholder Involvement and Community Education**
+### **5.2. Stakeholder Involvement and Community Education**
 
 In order to ensure the long-term success and sustainability of the proposed governance framework within the SingularityNET Ambassadors program, it is essential to establish and maintain a set of Best Practices. These best practices will help to promote a healthy governance ecosystem, fostering a culture of transparency, collaboration, and inclusivity. In this section, we will outline several key best practices that should be considered and adopted by the community.
 
@@ -437,7 +445,7 @@ The SNET Ambassador may consider an _Ambassador University_ to enable and guide 
 
 By adopting and maintaining these Best Practices, the SingularityNET Ambassadors program can create a healthy and thriving governance system that supports the continued growth and success of the project. Through open communication, continuous learning, diversity and inclusion, conflict resolution, and accountability, the governance framework can remain agile, responsive, and effective in achieving its goals.
 
-**5.3. Monitoring and Evaluation**
+### **5.3. Monitoring and Evaluation**
 
 For the governance framework to remain effective and beneficial for the SingularityNET ecosystem, it is crucial to ensure its long-term sustainability. This requires a concerted effort from all stakeholders, including the community members, workgroups, guilds, and the core team, to consistently maintain and adapt the framework as needed. In this section, we will outline several strategies and considerations to ensure the long-term sustainability of the proposed governance framework.
 
@@ -459,11 +467,11 @@ By implementing a robust M\&E process that includes clear objectives, data colle
 
 By implementing these strategies and taking a proactive approach to ensuring the long-term sustainability of the governance framework, the SingularityNET community can create a robust and resilient system that supports the continued growth and success of the ecosystem. Through effective resource management, collaboration, adaptability, education, and monitoring, the governance framework can remain an integral part of the SingularityNET project for years to come.
 
-#### Conclusion <a href="#_wb2j4aqd20fm" id="_wb2j4aqd20fm"></a>
+## Conclusion <a href="#_wb2j4aqd20fm" id="_wb2j4aqd20fm"></a>
 
 The conclusion offers a summary of the governance framework and highlights its potential to improve the SingularityNET Ambassadors program. It also discusses future directions and opportunities for further development and refinement of the framework, as well as some final thoughts on the importance of effective governance in a decentralized ecosystem.
 
-**6.1. Summary of the Governance Framework**
+### **6.1. Summary of the Governance Framework**
 
 The SingularityNET Ambassador Governance Framework is a decentralized and community-driven approach to decision-making and resource allocation, inspired by the cellular structure of the human body. The framework is designed to empower active and engaged contributors, foster diversity and inclusion, and prioritize consensus-based decision-making processes over traditional token-based voting systems.
 
@@ -503,7 +511,7 @@ The framework incorporates regular monitoring and evaluation processes to ensure
 
 The SingularityNET Ambassador Governance Framework provides a flexible, decentralized, and community-driven approach to governance, designed to support the long-term success and growth of the SingularityNET ecosystem by empowering its most engaged and passionate contributors.
 
-**6.2. Future Directions and Opportunities**
+### **6.2. Future Directions and Opportunities**
 
 6.2. Future Developments and Adaptability
 
@@ -519,7 +527,7 @@ Key aspects of future developments and adaptability include:
 
 By maintaining a focus on adaptability and responsiveness, the SingularityNET Ambassador Governance Framework can continue to evolve and grow alongside the SingularityNET ecosystem, ensuring that the community remains at the heart of the decision-making process and that the framework remains effective in supporting the long-term success of the project.
 
-**6.3. Final Thoughts**
+### **6.3. Final Thoughts**
 
 The SingularityNET Ambassador Governance Framework is a novel attempt to harness the power of decentralized technology to create a more equitable, transparent, and inclusive decision-making process for a rapidly evolving AI ecosystem. By embracing the principles of decentralization, the framework empowers individual contributors while fostering a collaborative environment where the collective wisdom of the community guides the development of the ecosystem.
 
@@ -529,7 +537,7 @@ Furthermore, the use of blockchain technology and tokenized incentives in the fr
 
 As we continue to grapple with the implications of rapidly advancing AI technologies, the SingularityNET Ambassador Governance Framework serves as a timely reminder of the importance of collaboration, diversity, and inclusion in shaping the future of AI. By embracing the principles of decentralization and building on the strengths of blockchain technology, the framework offers a promising vision of a more equitable and participatory future for the development and governance of AI and AGI systems.
 
-#### Notes: <a href="#_i7vh9c9qivsd" id="_i7vh9c9qivsd"></a>
+## Notes: <a href="#_i7vh9c9qivsd" id="_i7vh9c9qivsd"></a>
 
 Won't be finished at any state
 
@@ -537,7 +545,7 @@ Living document which will evolve into version documents ( E.g V1, v2 etc )
 
 Define updates and change proposals to the document (similar to CIP process ?) (just without door keepers such as CIP’s & IOG)
 
-#### To be discussed <a href="#_5up6vf51ikpr" id="_5up6vf51ikpr"></a>
+## To be discussed <a href="#_5up6vf51ikpr" id="_5up6vf51ikpr"></a>
 
 * Version control versus concurrency. My thought is version control. I believe it eliminates potential confusion. I do believe concurrency should exist in this living document, but until a Consensus or Consent is achieved by the community only the adopted Version should be the guide.
 * Ideate and define signing process
