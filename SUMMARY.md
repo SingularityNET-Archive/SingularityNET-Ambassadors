@@ -43,3 +43,4 @@
   * [Principles and Assumptions](governance-framework/principles-and-assumptions.md)
   * [Framework](governance-framework/framework.md)
   * [Implementation and Adoption](governance-framework/implementation-and-adoption.md)
+  * [Conclusion](governance-framework/conclusion.md)
