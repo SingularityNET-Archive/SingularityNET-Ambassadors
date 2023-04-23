@@ -29,6 +29,6 @@
   * [Treasury Guild Dashboard](https://treasuryguild.com/Singularity%20Net)
 * [SingularityNET links](links/singularitynet-links.md)
 
-## Knowledge Base
+## Governance
 
-* [Overview](knowledge-base/overview.md)
+* [Overview](governance/overview.md)
