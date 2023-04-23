@@ -4,6 +4,10 @@ description: SingularityNET Ambassadors Governance Framework
 
 # Governance Framework
 
+{% hint style="info" %}
+This draft is an experiment in formating the first version of the framework
+{% endhint %}
+
 Ideation on a governance framework proposal for the SingularityNET Ambassadors program
 
 Initial Document created on April 9th, 2023 by Felix Weber
