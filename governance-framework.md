@@ -4,17 +4,11 @@ description: SingularityNET Ambassadors Governance Framework
 
 # Governance Framework
 
-DRAFT | OPEN TO EDIT FOR EVERYONE
-
-SingularityNET Ambassadors - Governance Framework
-
 Ideation on a governance framework proposal for the SingularityNET Ambassadors program
 
 Initial Document created on April 9th, 2023 by Felix Weber
 
-See full Version History [here](https://docs.google.com/spreadsheets/d/1iRQ19P1iHvS6rmF-ir4Ra5qKDsDklwOXHv0vgw\_EScw/edit?usp=sharing) < gets updated frequently
-
-Document editors
+## Document editors
 
 (In Alphabetic order, contributors/editors be added as they join)
 
@@ -38,10 +32,12 @@ Stephen Whitenstall
 
 Tevo Saks
 
+
+
 Tom Frey\
 Vanessa Cardui
 
-Acknowledgements:
+## Acknowledgements:
 
 [NewMindflow](https://twitter.com/newmindflow) and the [NFT Guild](https://www.nft-guild.io/) for their insights and perspectives, which led to the emergence of the cellular based governance framework and its token design.
 
@@ -53,7 +49,7 @@ QADAO with [documentation and an overview](https://quality-assurance-dao.github.
 
 Thanks also to [OpenAI’s GPT4](https://openai.com/product/gpt-4) for helping on the structure and content of the initial document.
 
-Document Process
+## Document Process
 
 * Ideation phase
 * **April 9th to April 26th:**
