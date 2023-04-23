@@ -23,6 +23,27 @@ The workgroups and guilds within the SingularityNET Ambassadors program are esse
 
 These guilds represent a few examples of the diverse workgroups within the SingularityNET Ambassadors program, each playing a vital role in advancing the ecosystem. As the program continues to evolve, new guilds may be established to address emerging needs and opportunities, ensuring that the program remains dynamic and responsive to the ever-changing landscape of decentralized AI and blockchain technology.
 
+### **2.3. Roles and Responsibilities of Ambassadors**
+
+Roles document by Fly You Fools
+
+[https://docs.google.com/spreadsheets/d/12ADw\_4XE7H\_6UkRD-TEk0vzw5D9mEcQDIL2uPHMGh6Y/edit?usp=sharing](https://docs.google.com/spreadsheets/d/12ADw\_4XE7H\_6UkRD-TEk0vzw5D9mEcQDIL2uPHMGh6Y/edit?usp=sharing)
+
+The SingularityNET Ambassadors program offers a wide range of roles and responsibilities for its participants, allowing community members to contribute their unique skills, talents, and passions to the growth and development of the ecosystem. By accommodating a variety of roles, the program ensures a diverse, inclusive, and dynamic environment that fosters innovation, collaboration, and progress.
+
+Some of the roles and responsibilities that ambassadors can take on within the program include:
+
+1. **Translators**: Ambassadors with multilingual skills help translate content, ensuring that the SingularityNET message reaches a wider global audience and fosters cross-cultural understanding and collaboration. Translators are responsible for making the platform and its resources accessible to non-English speaking communities, thereby broadening the program's impact.
+
+Translators work within the Marketing Guild??(should we align roles with guilds?)
+
+1. **Social Media Ambassadors**: Ambassadors managing and moderating SingularityNET's presence on various social media platforms share content, engage with the community, and provide support to users seeking assistance or information. They maintain a positive, informative, and interactive environment, playing a vital role in growing the community and raising awareness about the ecosystem.
+2. **Content Creators**: Content creators within the Ambassadors program produce a diverse range of materials, including written articles, videos, podcasts, graphics, and more. They promote SingularityNET, educate the community, and showcase the ecosystem's projects and initiatives. These ambassadors leverage their creative talents to communicate complex ideas and concepts effectively and compellingly.
+3. **Community Support**: Ambassadors providing assistance and guidance to community members on platforms such as Telegram, Discord, Twitter, and other platforms will help answer questions, resolve issues, and ensure that discussions remain productive, respectful, and focused on the program's objectives. By offering timely and knowledgeable support, these ambassadors foster a welcoming and inclusive environment for new and existing community members.
+4. **Organizers and Outreach Ambassadors (Scouts):** Organizers and outreach ambassadors coordinate and host events, such as meetups, conferences, webinars, and other gatherings that bring together the SingularityNET community to showcase the ecosystem's projects and achievements. These ambassadors use their networking and organizational skills to facilitate connections, collaborations, and learning opportunities within the community.
+5. **General Ambassadors**: General ambassadors play a crucial role in representing and promoting the SingularityNET ecosystem in various capacities. They may be involved in multiple aspects of the program, such as content creation, community engagement, or event organization. These ambassadors are passionate about the mission and vision of SingularityNET and actively contribute to its growth and success.
+
+As the Ambassadors program grows and evolves, new roles and responsibilities may emerge to meet the changing needs and opportunities within the ecosystem. New roles, workgroups and guilds will be supported through an incubation process. By providing a flexible and inclusive environment for community members to contribute, the program ensures a diverse and dynamic foundation for the ongoing growth and success of the SingularityNET ecosystem.
 
 
 
