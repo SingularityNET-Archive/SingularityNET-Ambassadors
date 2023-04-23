@@ -32,3 +32,4 @@
 ## Governance
 
 * [Overview](knowledge-base/overview.md)
+* [Framework](governance/framework.md)
