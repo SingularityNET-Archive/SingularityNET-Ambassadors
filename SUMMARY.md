@@ -36,4 +36,5 @@
 
 ***
 
-* [Governance Framework](governance-framework.md)
+* [Governance Framework](governance-framework/README.md)
+  * [Process](governance-framework/process.md)
