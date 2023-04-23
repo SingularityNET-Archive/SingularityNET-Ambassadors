@@ -20,6 +20,12 @@
 
 * [Ambassadors Links](links/ambassadors-links/README.md)
   * [Ambassador Website](https://singularitynet.io/ambassador-program/)
+  * [SNet Discord](http://discord.gg/snet)
+  * [Dework](https://app.dework.xyz/i/2GDsOtMdMNW9LKOR4cTyXe)
+  * [Community Calendar](https://calendar.google.com/calendar/u/0?cid=c2luZ3VsYXJpdHluZXRhbWJhc3NhZG9yc0BnbWFpbC5jb20)
+  * [Miro Notes](https://miro.com/app/board/uXjVO0WVUBA=/)
+  * [Archive GitBook](https://snet-ambassadors.gitbook.io/singularitynet-archive/)
+  * [Twitter](https://twitter.com/SNET\_Ambassador)
 * [SingularityNET links](links/singularitynet-links.md)
 
 ## Knowledge Base
