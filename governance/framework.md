@@ -1,6 +1,6 @@
 # Framework
 
-A draft governance framework was initated by Felix Weber in April 2023.
+A draft governance framework was started by Felix Weber in April 2023.
 
 ## Google Document
 
