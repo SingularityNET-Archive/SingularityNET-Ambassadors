@@ -31,4 +31,4 @@
 
 ## Governance
 
-* [Overview](governance/overview.md)
+* [Overview](knowledge-base/overview.md)
