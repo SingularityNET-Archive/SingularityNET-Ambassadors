@@ -31,5 +31,9 @@
 
 ## Governance
 
-* [Overview](governance/overview/README.md)
+* [Overview](knowledge-base/overview.md)
   * [Framework](governance/overview/framework.md)
+
+***
+
+* [SingularityNET Ambassadors Governance Framework](singularitynet-ambassadors-governance-framework.md)
