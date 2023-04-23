@@ -18,6 +18,8 @@
 
 ## Links
 
+* [Ambassadors Links](links/ambassadors-links/README.md)
+  * [Ambassador Website](https://singularitynet.io/ambassador-program/)
 * [SingularityNET links](links/singularitynet-links.md)
 
 ## Knowledge Base
