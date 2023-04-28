@@ -9,6 +9,10 @@
 * SingularityNET [Twitter](https://twitter.com/singularity\_net) and [Facebook](https://www.facebook.com/singularityNET.io)
 * SingularityNET [Jobs Page](https://singularitynet.io/jobs)&#x20;
 
+## Deepfunding
+
+[https://proposals.deepfunding.ai/home](https://proposals.deepfunding.ai/home)
+
 ## **SingularityDAO**
 
 SingularityDAO [Telegram Community](https://t.me/SingDAO)
