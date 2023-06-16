@@ -1,7 +1,7 @@
 # Table of contents
 
 * [SingularityNET-Ambassadors](README.md)
-* [Meeting Schedule](meeting-schedule.md)
+* [Our Workgroups](meeting-schedule.md)
 * [Meeting Notes](meeting-notes.md)
 * [Getting Started](getting-started/README.md)
   * [Sign-up Form](getting-started/sign-up-form.md)
