@@ -1,9 +1,16 @@
-# Meeting Schedule
+# Our Workgroups
 
-Current weekly schedule:\
-\
-Monday 18:00 UTC - Community podcast workgroup\
-Tuesday 10:00 UTC - Process Guild\
-Tuesday 18:00 UTC - Ambassador Townhall\
-Thursday 17:00 UTC - Treasury Guild (bi-weekly)\
-All meetings take place on our Discord server, at discord.gg/snet
+## Overview
+
+The Singularity NET Ambassadors organise themselves into workgroups or guilds.
+
+## Workgroups
+
+Below is a current list of workgroups with a description and meeting time
+
+
+
+## The Singularity NET Ambassadors Calender&#x20;
+
+The Singularity NET Ambassadors Calender can be subscribed to using this link
+
