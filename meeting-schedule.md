@@ -23,3 +23,5 @@ The Singularity NET Ambassadors Calendar can be subscribed to using this link
 Below you can find an embed of the Miro board which is used to take meeting notes.\
 [https://miro.com/app/board/uXjVO0WVUBA=/](https://miro.com/app/board/uXjVO0WVUBA=/)
 
+{% embed url="https://github.com/SingularityNET-Archive/SingularityNET-Ambassadors/issues/3" %}
+
