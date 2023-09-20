@@ -14,7 +14,6 @@
 
 * [How to create a Cardano wallet](rewards/how-to-create-a-cardano-wallet.md)
 * [How rewards are distributed](rewards/how-rewards-are-distributed.md)
-* [Past disbursements](rewards/past-disbursements.md)
 
 ## Links
 
