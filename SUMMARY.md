@@ -28,6 +28,8 @@
   * [How do we choose projects to work on?](workgroups/video-workgroup/how-do-we-choose-projects-to-work-on.md)
   * [Comissioning a video from the workgroup](workgroups/video-workgroup/comissioning-a-video-from-the-workgroup.md)
   * [❓ Question](workgroups/video-workgroup/question.md)
+  * [Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
+  * [Video Workgroup website](https://vw-snetambassadors.carrd.co/)
 
 ## Links
 

@@ -22,11 +22,11 @@ If you have a video, and you want to commission the video workgroup to make some
 
 4. **Specify any colors, fonts, images, and logos that you want to use:**
 
-* Within sNET, it will be SNet colors and fonts. But if you have any special requests, include them in the brief.
+Within sNET, it will be SNet colors and fonts. But if you have any special requests, include them in the brief.
 
 5. **Timelines specification:**
 
-* Say clearly how flexible your dates are or aren’t; factor in time for checking and corrections; and try not to give us rush jobs! Based on this, we can agree on a date for the first draft.
+Say clearly how flexible your dates are or aren’t; factor in time for checking and corrections; and try not to give us rush jobs! Based on this, we can agree on a date for the first draft.
 
 6. **What to check:**
 
