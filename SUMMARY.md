@@ -27,7 +27,7 @@
   * [Weekly meeting](workgroups/video-workgroup/weekly-meeting.md)
   * [How do we choose projects to work on?](workgroups/video-workgroup/how-do-we-choose-projects-to-work-on.md)
   * [Comissioning a video from the workgroup](workgroups/video-workgroup/comissioning-a-video-from-the-workgroup.md)
-  * [❓ Question](workgroups/video-workgroup/question.md)
+  * [❓ Q\&A](workgroups/video-workgroup/q-and-a.md)
   * [Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
   * [Video Workgroup website](https://vw-snetambassadors.carrd.co/)
 
@@ -40,9 +40,11 @@
   * [Community Calendar](https://calendar.google.com/calendar/u/0?cid=c2luZ3VsYXJpdHluZXRhbWJhc3NhZG9yc0BnbWFpbC5jb20)
   * [Miro Notes](https://miro.com/app/board/uXjVO0WVUBA=/)
   * [Archive GitBook](https://snet-ambassadors.gitbook.io/singularitynet-archive/)
-  * [Twitter](https://twitter.com/SNET\_Ambassador)
   * [Treasury Guild Dashboard](https://treasuryguild.com/Singularity%20Net)
-  * [Video Workgroup](https://vw-snetambassadors.carrd.co/)
+  * [X](https://twitter.com/SNET\_Ambassador)
+  * [Youtube](https://www.youtube.com/@SNET\_Ambassador)
+  * [Instagram](https://www.instagram.com/snet\_ambassadors/)
+  * [TikTok](https://www.tiktok.com/@snet\_ambassadors)
 * [SingularityNET links](links/singularitynet-links.md)
 
 ## Governance
