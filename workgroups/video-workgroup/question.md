@@ -5,13 +5,7 @@
 
 1. How can I join the Video workgroup?
 
-\
-
-
 By applying to the join workgroup task when the applications are open.
-
-\
-
 
 2. How are tasks assigned to members?
 
