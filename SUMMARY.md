@@ -15,6 +15,20 @@
 * [How to create a Cardano wallet](rewards/how-to-create-a-cardano-wallet.md)
 * [How rewards are distributed](rewards/how-rewards-are-distributed.md)
 
+## Workgroups
+
+* [📽 Video Workgroup](workgroups/video-workgroup/README.md)
+  * [Success Measurement and KPIs](workgroups/video-workgroup/success-measurement-and-kpis.md)
+  * [Social Media Platforms](workgroups/video-workgroup/social-media-platforms.md)
+  * [Who can participate in the workgroup?](workgroups/video-workgroup/who-can-participate-in-the-workgroup.md)
+  * [Acceptance criteria for projects](workgroups/video-workgroup/acceptance-criteria-for-projects.md)
+  * [Roles and Responsibilities](workgroups/video-workgroup/roles-and-responsibilities.md)
+  * [Rewards](workgroups/video-workgroup/rewards.md)
+  * [Weekly meeting](workgroups/video-workgroup/weekly-meeting.md)
+  * [How do we choose projects to work on?](workgroups/video-workgroup/how-do-we-choose-projects-to-work-on.md)
+  * [Comissioning a video from the workgroup](workgroups/video-workgroup/comissioning-a-video-from-the-workgroup.md)
+  * [❓ Question](workgroups/video-workgroup/question.md)
+
 ## Links
 
 * [Ambassadors Links](links/ambassadors-links/README.md)
