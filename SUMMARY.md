@@ -14,6 +14,8 @@
 
 * [How to create a Cardano wallet](rewards/how-to-create-a-cardano-wallet.md)
 * [How rewards are distributed](rewards/how-rewards-are-distributed.md)
+* [How do we manage Financial Resources?](rewards/how-do-we-manage-financial-resources.md)
+* [Treasury Management](rewards/treasury-management.md)
 
 ## Workgroups
 
@@ -62,7 +64,3 @@
   * [Framework](governance-framework/framework.md)
   * [Implementation and Adoption](governance-framework/implementation-and-adoption.md)
   * [Conclusion](governance-framework/conclusion.md)
-
-## Group 1
-
-* [Treasury Management](group-1/treasury-management.md)
