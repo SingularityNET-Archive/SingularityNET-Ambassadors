@@ -1,7 +1,6 @@
 # ❓ Q\&A
 
-\
-
+Here are some questions and answers about the video workgroup:
 
 * How can I join the Video workgroup?
 
