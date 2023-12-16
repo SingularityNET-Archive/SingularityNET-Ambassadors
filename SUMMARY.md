@@ -21,7 +21,7 @@
 
 * [📽 Video Workgroup](workgroups/video-workgroup/README.md)
   * [⚖ Structure and Governance](workgroups/video-workgroup/structure-and-governance/README.md)
-    * [Platforms and KPIs](workgroups/video-workgroup/structure-and-governance/platforms-and-kpis.md)
+    * [Platforms and KPIs](workgroups/video-workgroup/structure-and-governance/success-measurement-and-kpis.md)
     * [Roles and Responsibilities](workgroups/video-workgroup/structure-and-governance/roles-and-responsibilities.md)
     * [Weekly meeting](workgroups/video-workgroup/structure-and-governance/weekly-meeting.md)
     * [Comissioning a video from the workgroup](workgroups/video-workgroup/structure-and-governance/comissioning-a-video-from-the-workgroup.md)
@@ -32,7 +32,7 @@
     * [Social media management](workgroups/video-workgroup/recurrent-tasks/social-media-management.md)
     * [Weekly Meeting](workgroups/video-workgroup/recurrent-tasks/weekly-meeting.md)
     * [Meeting Summary](workgroups/video-workgroup/recurrent-tasks/meeting-summary.md)
-  * [✅ Acceptance criteria for projects](workgroups/video-workgroup/acceptance-criteria-for-projects.md)
+  * [✅ Acceptance criteria for projects](workgroups/video-workgroup/structure-and-governance/acceptance-criteria-for-projects.md)
   * [❓ Q\&A](workgroups/video-workgroup/q-and-a.md)
   * [Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
   * [Video Workgroup website](https://vw-snetambassadors.carrd.co/)
