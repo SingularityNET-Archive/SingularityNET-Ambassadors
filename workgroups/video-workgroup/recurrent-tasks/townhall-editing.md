@@ -13,5 +13,5 @@ In order to edit the weekly Townhall, please go over the following steps:
 5. Use the following background for the video.
 6. Create timestamps (Preferably 8 - 10 stamps)
    * Make sure to use the proper YouTube - Timestamp format.
-   * Provide them in Google Docs or submit them as task evidence/
+   * Provide them in Google Docs or submit them as task evidence.
 
