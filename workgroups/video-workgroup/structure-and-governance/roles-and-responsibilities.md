@@ -1,5 +1,7 @@
 # Roles and Responsibilities
 
+<mark style="background-color:yellow;">⚠️Members are meant to collaborate in order to create videos and the rewards will reflect these collaborations.</mark>
+
 ### Member:
 
 * To participate in the weekly meeting whenever it’s possible.

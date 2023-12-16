@@ -1,2 +1,2 @@
-# Structure and Governance
+# ⚖ Structure and Governance
 

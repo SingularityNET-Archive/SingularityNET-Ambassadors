@@ -1,4 +1,4 @@
-# Acceptance criteria for projects
+# ✅ Acceptance criteria for projects
 
 * Every video created by a member (or group of members) should be original and not copied with minor changes from other sources. (with the exception of clips)
 * Every video should have good to high-quality editing.
