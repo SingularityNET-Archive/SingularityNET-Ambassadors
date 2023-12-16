@@ -2,8 +2,6 @@
 
 The raw Ambassador Townhall Video will be uploaded to Google Folder an hour after Ambassador Townhall which happens at 18:00 UTC
 
-<mark style="background-color:purple;">If the task is completed before the end of the 2nd day after task creation. The assignee is rewarded with an extra 10$ in AGIX</mark>
-
 In order to edit the weekly Townhall, please go over the following steps:
 
 1. Download the recording from the Dework task as shown below.
