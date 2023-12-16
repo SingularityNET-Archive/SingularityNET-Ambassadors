@@ -1,5 +1,7 @@
 # Task management
 
+<mark style="background-color:yellow;">Use templates to create tasks.</mark>
+
 Task management involves the following:
 
 1. Present a weekly brief in the workgroup’s meeting whenever it’s possible.
