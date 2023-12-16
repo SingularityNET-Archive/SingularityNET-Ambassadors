@@ -1,6 +1,6 @@
 # 📽 Video Workgroup
 
-The video workgroup is a subgroup of the Marketing guild, as the name might suggest this workgroup specializes in video content to promote SingularityNet projects and initiatives, and also to promote The SingularityNet Ambassador program as a stand-alone entity.
+The video workgroup is a workgroup of the SNet ambassador program, as the name might suggest this workgroup specializes in video content to promote SingularityNet projects and initiatives, and also to promote The SingularityNet Ambassador program as a stand-alone entity.
 
 ### Our core values
 
