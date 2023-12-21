@@ -37,21 +37,7 @@ SingularityDAO - [Subscribe to our newsletter](https://singularitynet.us16.list-
 
 ## **NuNet**
 
-NuNet [Telegram](https://t.me/NuNet\_Community)
-
-NuNet [Website](https://nunet.io/)
-
-NuNet [Discord](https://discord.gg/snet)
-
-NuNet [Whitepaper](https://nunet-io.github.io/public/NuNet\_Whitepaper.pdf)
-
-NuNet [Twitter](https://twitter.com/nunet\_global)
-
-NuNet [Gitlab](https://gitlab.com/nunet)
-
-NuNet [DevExchange](https://devexchange.nunet.io/)
-
-NuNet [Youtube](https://www.youtube.com/channel/UCLTTOrMYDTbQYHs1HCFPtfA)
+[https://www.nunet.io/links](https://www.nunet.io/links)
 
 ## **Rejuve**
 
