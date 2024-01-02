@@ -1,6 +1,8 @@
 # 📜 Recurrent Tasks
 
-These are some recurrent tasks with tutorials on how to make them.
+These are some recurrent tasks with tutorials on how to make them.&#x20;
+
+Each month these tasks are assigned randomly to members given they participate in the assignment process.
 
 {% content-ref url="townhall-editing.md" %}
 [townhall-editing.md](townhall-editing.md)
