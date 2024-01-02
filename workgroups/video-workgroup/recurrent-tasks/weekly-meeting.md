@@ -6,6 +6,7 @@ Weekly meeting facilitation involves the following:
 2. Joining Marketing Guild and Writer's Workgroup meetings, and bringing updates to Video workgroup members.
 3. Facilitating the weekly video workgroup meeting and fostering conversations between members about planning and so on. The weekly meeting is organized as follows:
    * Introduction by the facilitator.
+   * Ecosystem updates from the facilitator.
    * Updates from the task manager.
    * Updates from the social media manager.
    * Facilitators introduce any ongoing agenda items.
