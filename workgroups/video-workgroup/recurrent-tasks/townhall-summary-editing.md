@@ -1,8 +1,8 @@
 # Townhall summary editing
 
-In order to edit the weekly Townhall summary, please go over the following steps:
+To edit the weekly Townhall summary, please go over the following steps:
 
-1. Download the recording from the Dework task as shown below.
+1. Download the recording from the link in the Dework task.
 2. Use the following [post](https://youtube.com/shorts/vrMMwqA82rY?si=wJn9HS4YRlkkvyyh) as a guideline.
 3. Edit the video to the required format, and remove any redundant parts. Here is an [example](https://youtube.com/shorts/vrMMwqA82rY?si=R1W9cFLOudU\_Vkb3) to show the required format.
 4. Use vertical format 9:16 aspect ratio (Tiktok format)
