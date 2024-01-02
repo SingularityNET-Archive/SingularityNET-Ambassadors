@@ -12,11 +12,10 @@ A member is any person who succeeds in the onboarding process of the video workg
 * To provide feedback on others’ projects whenever it’s possible.
 * To participate in video and clip editing tasks.
 * To participate in meetings summarizing tasks.
-* To participate in management tasks.
 
 ### Senior Member:
 
-A senior member is a member who spent <mark style="background-color:purple;">at least one month as a member and 20 hours as a task</mark> in the workgroups. The responsibility of a senior member is:
+A senior member is a member who spent <mark style="background-color:purple;">at least one month as a member and 20 hours as a task</mark> in the workgroups. The responsibilities of a senior member are:
 
 * The same responsibilities as a member.
 * To participate in task management, social media management, and weekly meeting facilitation tasks.
