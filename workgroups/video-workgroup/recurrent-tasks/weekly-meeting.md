@@ -9,5 +9,6 @@ Weekly meeting facilitation involves the following:
    * Updates from the task manager.
    * Updates from the social media manager.
    * Facilitators introduce any ongoing agenda items.
+   * Open discussions (if time allows it)
    * Ending by the facilitator
 4. Updating the community about the video workgroup in the weekly Ambassador Program Town Hall.
