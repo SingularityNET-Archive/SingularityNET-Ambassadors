@@ -9,8 +9,8 @@ The workgroup shares with the community their KPIs every month to show their pro
 
 ## Social Media Platforms:
 
-* YouTube (normal horizontal videos and Shorts)
+* YouTube&#x20;
 * Tiktok
-* Instagram (reels)
+* Instagram
 * X
 * Others (open to suggestions)
