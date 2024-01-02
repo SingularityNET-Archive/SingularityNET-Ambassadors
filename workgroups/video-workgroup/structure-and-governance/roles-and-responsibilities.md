@@ -12,6 +12,7 @@ A member is any person who succeeds in the onboarding process of the video workg
 * To provide feedback on others’ projects whenever it’s possible.
 * To participate in video and clip editing tasks.
 * To participate in meetings summarizing tasks.
+* To participate in management tasks.
 
 ### Senior Member:
 
