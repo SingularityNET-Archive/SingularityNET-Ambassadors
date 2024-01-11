@@ -24,6 +24,7 @@
     * [Platforms and KPIs](workgroups/video-workgroup/structure-and-governance/success-measurement-and-kpis.md)
     * [Roles and Responsibilities](workgroups/video-workgroup/structure-and-governance/roles-and-responsibilities.md)
     * [Weekly meeting](workgroups/video-workgroup/structure-and-governance/weekly-meeting.md)
+    * [Quartely budget](workgroups/video-workgroup/structure-and-governance/quartely-budget.md)
     * [Comissioning a video from the workgroup](workgroups/video-workgroup/structure-and-governance/comissioning-a-video-from-the-workgroup.md)
   * [📜 Recurrent Tasks](workgroups/video-workgroup/recurrent-tasks/README.md)
     * [Townhall editing](workgroups/video-workgroup/recurrent-tasks/townhall-editing.md)
