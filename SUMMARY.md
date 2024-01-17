@@ -1,45 +1,20 @@
 # Table of contents
 
-* [SingularityNET-Ambassadors](README.md)
-* [Our Workgroups](meeting-schedule.md)
-* [Meeting Notes](meeting-notes.md)
-* [Getting Started](getting-started/README.md)
-  * [Sign-up Form](getting-started/sign-up-form.md)
-  * [Join the Discord server](getting-started/join-the-discord-server.md)
-  * [Pick a task to get started](getting-started/pick-a-task-to-get-started.md)
-  * [Deworktask guide](getting-started/deworktask-guide.md)
-  * [Open Google Drive folder](getting-started/open-google-drive-folder.md)
+* [SingularityNET Ambassador Program: Welcome!](README.md)
+* [5 steps to join the Program](5-steps-to-join-the-program/README.md)
+  * [1) Complete the sign-up form](5-steps-to-join-the-program/1-complete-the-sign-up-form.md)
+  * [2) Join us on Discord](5-steps-to-join-the-program/2-join-us-on-discord.md)
+  * [3) Start attending the weekly Town Hall meetings](5-steps-to-join-the-program/3-start-attending-the-weekly-town-hall-meetings.md)
+  * [4) Create a wallet and join Dework](5-steps-to-join-the-program/4-create-a-wallet-and-join-dework.md)
+  * [5) Get involved with WorkGroups](5-steps-to-join-the-program/5-get-involved-with-workgroups.md)
+* [Our WorkGroups](meeting-schedule.md)
+* [Our documentation](meeting-notes.md)
 
 ## Rewards
 
-* [How to create a Cardano wallet](rewards/how-to-create-a-cardano-wallet.md)
 * [How rewards are distributed](rewards/how-rewards-are-distributed.md)
 * [How do we manage Financial Resources?](rewards/how-do-we-manage-financial-resources.md)
 * [Treasury Management](rewards/treasury-management.md)
-
-## Workgroups
-
-* [📽 Video Workgroup](workgroups/video-workgroup/README.md)
-  * [⚖ Structure and Governance](workgroups/video-workgroup/structure-and-governance/README.md)
-    * [Platforms and KPIs](workgroups/video-workgroup/structure-and-governance/success-measurement-and-kpis.md)
-    * [Roles and Responsibilities](workgroups/video-workgroup/structure-and-governance/roles-and-responsibilities.md)
-    * [Weekly meeting](workgroups/video-workgroup/structure-and-governance/weekly-meeting.md)
-    * [Quartely budget](workgroups/video-workgroup/structure-and-governance/quartely-budget.md)
-    * [Comissioning a video from the workgroup](workgroups/video-workgroup/structure-and-governance/comissioning-a-video-from-the-workgroup.md)
-  * [📜 Recurrent Tasks](workgroups/video-workgroup/recurrent-tasks/README.md)
-    * [Townhall editing](workgroups/video-workgroup/recurrent-tasks/townhall-editing.md)
-    * [Townhall summary editing](workgroups/video-workgroup/recurrent-tasks/townhall-summary-editing.md)
-    * [Task management](workgroups/video-workgroup/recurrent-tasks/task-management.md)
-    * [Social media management](workgroups/video-workgroup/recurrent-tasks/social-media-management.md)
-    * [Weekly Meeting Facilitation](workgroups/video-workgroup/recurrent-tasks/weekly-meeting.md)
-    * [Meeting Summarizing](workgroups/video-workgroup/recurrent-tasks/meeting-summary.md)
-  * [📹 Video Projects](workgroups/video-workgroup/video-projects/README.md)
-    * [Make a clip](workgroups/video-workgroup/video-projects/make-a-clip.md)
-    * [Make a video](workgroups/video-workgroup/video-projects/make-a-video.md)
-  * [✅ Acceptance criteria for projects](workgroups/video-workgroup/structure-and-governance/acceptance-criteria-for-projects.md)
-  * [❓ Q\&A](workgroups/video-workgroup/q-and-a.md)
-  * [Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
-  * [Video Workgroup website](https://vw-snetambassadors.carrd.co/)
 
 ## Links
 
@@ -56,6 +31,31 @@
   * [Instagram](https://www.instagram.com/snet\_ambassadors/)
   * [TikTok](https://www.tiktok.com/@snet\_ambassadors)
 * [SingularityNET links](links/singularitynet-links.md)
+
+## WorkGroups Space
+
+* [Storage: our open Google Drive folder](workgroups-space/open-google-drive-folder.md)
+* [📽 Video Workgroup](workgroups-space/video-workgroup/README.md)
+  * [⚖ Structure and Governance](workgroups-space/video-workgroup/structure-and-governance/README.md)
+    * [Platforms and KPIs](workgroups-space/video-workgroup/structure-and-governance/platforms-and-kpis.md)
+    * [Roles and Responsibilities](workgroups-space/video-workgroup/structure-and-governance/roles-and-responsibilities.md)
+    * [Weekly meeting](workgroups-space/video-workgroup/structure-and-governance/weekly-meeting.md)
+    * [Quartely budget](workgroups-space/video-workgroup/structure-and-governance/quartely-budget.md)
+    * [Comissioning a video from the workgroup](workgroups-space/video-workgroup/structure-and-governance/comissioning-a-video-from-the-workgroup.md)
+  * [📜 Recurrent Tasks](workgroups-space/video-workgroup/recurrent-tasks/README.md)
+    * [Townhall editing](workgroups-space/video-workgroup/recurrent-tasks/townhall-editing.md)
+    * [Townhall summary editing](workgroups-space/video-workgroup/recurrent-tasks/townhall-summary-editing.md)
+    * [Task management](workgroups-space/video-workgroup/recurrent-tasks/task-management.md)
+    * [Social media management](workgroups-space/video-workgroup/recurrent-tasks/social-media-management.md)
+    * [Weekly Meeting Facilitation](workgroups-space/video-workgroup/recurrent-tasks/weekly-meeting-facilitation.md)
+    * [Meeting Summarizing](workgroups-space/video-workgroup/recurrent-tasks/meeting-summarizing.md)
+  * [📹 Video Projects](workgroups-space/video-workgroup/video-projects/README.md)
+    * [Make a clip](workgroups-space/video-workgroup/video-projects/make-a-clip.md)
+    * [Make a video](workgroups-space/video-workgroup/video-projects/make-a-video.md)
+  * [✅ Acceptance criteria for projects](workgroups-space/video-workgroup/acceptance-criteria-for-projects.md)
+  * [❓ Q\&A](workgroups-space/video-workgroup/q-and-a.md)
+  * [Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
+  * [Video Workgroup website](https://vw-snetambassadors.carrd.co/)
 
 ## Governance
 

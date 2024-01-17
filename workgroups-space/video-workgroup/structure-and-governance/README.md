@@ -1,7 +1,7 @@
 # ⚖ Structure and Governance
 
-{% content-ref url="success-measurement-and-kpis.md" %}
-[success-measurement-and-kpis.md](success-measurement-and-kpis.md)
+{% content-ref url="platforms-and-kpis.md" %}
+[platforms-and-kpis.md](platforms-and-kpis.md)
 {% endcontent-ref %}
 
 {% content-ref url="roles-and-responsibilities.md" %}

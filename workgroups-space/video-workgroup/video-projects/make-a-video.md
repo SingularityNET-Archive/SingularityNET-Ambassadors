@@ -3,7 +3,7 @@
 To make a video, please go over the following steps:
 
 1. Go over the resources linked in the task.
-2. Make the video and make sure it has accurate information and that it follows the following [guidelines](../structure-and-governance/acceptance-criteria-for-projects.md).
+2. Make the video and make sure it has accurate information and that it follows the following [guidelines](../acceptance-criteria-for-projects.md).
 3. Use the following[ outro](https://drive.google.com/file/d/1nJ\_8CsccT-BUcPuLu\_hj92iw30gEjXQp/view?usp=sharing) for the video.
 4. Create a thumbnail for the video.
 5. Create a description for the video.

@@ -1,22 +1,29 @@
----
-description: >-
-  The SingularityNET Ambassador Program is dedicated to growing awareness of the
-  importance of decentralized AI/AGI and the SingularityNET ecosystem.
----
-
-# SingularityNET-Ambassadors
+# SingularityNET Ambassador Program: Welcome!
 
 <figure><img src=".gitbook/assets/Screenshot from 2023-04-15 00-46-38.png" alt=""><figcaption></figcaption></figure>
 
-## Welcome to the SingularityNET Ambassador Program
+## Welcome!
 
-The SingularityNET Ambassador Program is dedicated to growing awareness of the importance of decentralized AI/AGI and the SingularityNET ecosystem. Through the program, we aim to provide structure and rewards to community members who are committed to contributing towards a beneficial AGI.&#x20;
+The SingularityNET (sNET) Ambassador Program is dedicated to building public awareness of decentralised AI/AGI, and of the sNET ecosystem. It provides structure and rewards to community members who are contributing towards a beneficial [AGI](https://en.wikipedia.org/wiki/Artificial\_general\_intelligence).&#x20;
 
-For background information on the SingularityNET Ecosystem, see [https://singularitynet.io/ecosystem](https://singularitynet.io/ecosystem). Our main drivers are transparency, decentralization, and involvement. To uphold these values, community members are fully involved in decision-making processes, including how tokens are spent. This is achieved through regular Town Hall meetings, which are open and accessible to all members of the community. Together, we can work towards creating a world where AGI benefits all of humanity.\
+## The sNET ecosystem
 
+To find out more about the wider sNET ecosystem, see [https://singularitynet.io/ecosystem](https://singularitynet.io/ecosystem). \
+You can also read [this blogpost](https://blog.singularitynet.io/the-path-to-agi-singularitynet-ecosystem-cooperation-159fcedf63c7).
 
-Currently this space is in development. It aims to be the single source of truth for the Ambassador Program.&#x20;
+## Core values&#x20;
 
-Besides this page you can check the available tasks on Dework - [app.dework.xyz/singularitynet-ambas](https://app.dework.xyz/singularitynet-ambas)\
-\
-You can check the Getting started section, including the sign-up form, the meeting schedule and notes, and the rewards distribution.
+The core values of our Ambassador program are&#x20;
+
+* **transparency**
+* **decentralisation, and**
+* **involvement.**&#x20;
+
+This means community members are fully involved in decision-making, including decisions on how tokens are spent. We do this through our weekly Town Hall meetings, which are open to all; and through various other experiments in contribution-based, decentralised decision-making.
+
+Together, we can work towards creating a world where AGI benefits all of humanity.
+
+## Watch our Welcome video
+
+{% embed url="https://youtu.be/PKwx8H9DkJs" %}
+

@@ -20,11 +20,11 @@ Each month these tasks are assigned randomly to members given they participate i
 [social-media-management.md](social-media-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="weekly-meeting.md" %}
-[weekly-meeting.md](weekly-meeting.md)
+{% content-ref url="weekly-meeting-facilitation.md" %}
+[weekly-meeting-facilitation.md](weekly-meeting-facilitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="meeting-summary.md" %}
-[meeting-summary.md](meeting-summary.md)
+{% content-ref url="meeting-summarizing.md" %}
+[meeting-summarizing.md](meeting-summarizing.md)
 {% endcontent-ref %}
 
