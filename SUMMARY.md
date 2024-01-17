@@ -1,36 +1,27 @@
 # Table of contents
 
+## Welcome and how to join
+
 * [SingularityNET Ambassador Program: Welcome!](README.md)
-* [5 steps to join the Program](5-steps-to-join-the-program/README.md)
-  * [1) Complete the sign-up form](5-steps-to-join-the-program/1-complete-the-sign-up-form.md)
-  * [2) Join us on Discord](5-steps-to-join-the-program/2-join-us-on-discord.md)
-  * [3) Start attending the weekly Town Hall meetings](5-steps-to-join-the-program/3-start-attending-the-weekly-town-hall-meetings.md)
-  * [4) Create a wallet and join Dework](5-steps-to-join-the-program/4-create-a-wallet-and-join-dework.md)
-  * [5) Get involved with WorkGroups](5-steps-to-join-the-program/5-get-involved-with-workgroups.md)
-* [Our WorkGroups](meeting-schedule.md)
-* [Our documentation](meeting-notes.md)
+* [5 steps to join the Program](welcome-and-how-to-join/5-steps-to-join-the-program/README.md)
+  * [1) Complete the sign-up form](welcome-and-how-to-join/5-steps-to-join-the-program/1-complete-the-sign-up-form.md)
+  * [2) Join us on Discord](welcome-and-how-to-join/5-steps-to-join-the-program/2-join-us-on-discord.md)
+  * [3) Start attending the weekly Town Hall meetings](welcome-and-how-to-join/5-steps-to-join-the-program/3-start-attending-the-weekly-town-hall-meetings.md)
+  * [4) Create a wallet and join Dework](welcome-and-how-to-join/5-steps-to-join-the-program/4-create-a-wallet-and-join-dework.md)
+  * [5) Get involved with WorkGroups](welcome-and-how-to-join/5-steps-to-join-the-program/5-get-involved-with-workgroups.md)
+* [Our WorkGroups](welcome-and-how-to-join/meeting-schedule.md)
+* [Our documentation](welcome-and-how-to-join/meeting-notes.md)
 
-## Rewards
+## Rewards and Treasury
 
-* [How rewards are distributed](rewards/how-rewards-are-distributed.md)
-* [How do we manage Financial Resources?](rewards/how-do-we-manage-financial-resources.md)
-* [Treasury Management](rewards/treasury-management.md)
+* [How rewards are distributed](rewards-and-treasury/how-rewards-are-distributed.md)
+* [How we manage financial resources](rewards-and-treasury/how-we-manage-financial-resources.md)
+* [Treasury management rules](rewards-and-treasury/treasury-management-rules.md)
 
-## Links
+## Useful links
 
-* [Ambassadors Links](links/ambassadors-links/README.md)
-  * [Ambassador Website](https://singularitynet.io/ambassador-program/)
-  * [SNet Discord](http://discord.gg/snet)
-  * [Dework](https://app.dework.xyz/i/2GDsOtMdMNW9LKOR4cTyXe)
-  * [Community Calendar](https://calendar.google.com/calendar/u/0?cid=c2luZ3VsYXJpdHluZXRhbWJhc3NhZG9yc0BnbWFpbC5jb20)
-  * [Miro Notes](https://miro.com/app/board/uXjVO0WVUBA=/)
-  * [Archive GitBook](https://snet-ambassadors.gitbook.io/singularitynet-archive/)
-  * [Treasury Guild Dashboard](https://treasuryguild.com/Singularity%20Net)
-  * [X](https://twitter.com/SNET\_Ambassador)
-  * [Youtube](https://www.youtube.com/@SNET\_Ambassador)
-  * [Instagram](https://www.instagram.com/snet\_ambassadors/)
-  * [TikTok](https://www.tiktok.com/@snet\_ambassadors)
-* [SingularityNET links](links/singularitynet-links.md)
+* [Ambassador Program links](useful-links/ambassadors-links.md)
+* [SingularityNET ecosystem links](useful-links/singularitynet-links.md)
 
 ## WorkGroups Space
 
@@ -56,19 +47,18 @@
   * [❓ Q\&A](workgroups-space/video-workgroup/q-and-a.md)
   * [Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
   * [Video Workgroup website](https://vw-snetambassadors.carrd.co/)
+* [Onboarding WorkGroup](workgroups-space/onboarding-workgroup.md)
+* [Research and Development Guild](workgroups-space/research-and-development-guild.md)
 
 ## Governance
 
 * [Overview](knowledge-base/overview.md)
-  * [Framework](governance/overview/framework.md)
-
-***
-
-* [Governance Framework](governance-framework/README.md)
-  * [Process](governance-framework/process.md)
-  * [Introduction](governance-framework/introduction.md)
-  * [Overview of Ambassadors Program](governance-framework/overview-of-ambassadors-program.md)
-  * [Principles and Assumptions](governance-framework/principles-and-assumptions.md)
-  * [Framework](governance-framework/framework.md)
-  * [Implementation and Adoption](governance-framework/implementation-and-adoption.md)
-  * [Conclusion](governance-framework/conclusion.md)
+  * [Draft Governance Framework document](governance/overview/framework.md)
+  * [Draft Governance Framework in detail](governance/overview/governance-framework/README.md)
+    * [Process](governance/overview/governance-framework/process.md)
+    * [Introduction](governance/overview/governance-framework/introduction.md)
+    * [Overview of Ambassadors Program](governance/overview/governance-framework/overview-of-ambassadors-program.md)
+    * [Principles and Assumptions](governance/overview/governance-framework/principles-and-assumptions.md)
+    * [Framework](governance/overview/governance-framework/framework.md)
+    * [Implementation and Adoption](governance/overview/governance-framework/implementation-and-adoption.md)
+    * [Conclusion](governance/overview/governance-framework/conclusion.md)
