@@ -18,6 +18,19 @@
 * [How we manage financial resources](rewards-and-treasury/how-we-manage-financial-resources.md)
 * [Treasury management rules](rewards-and-treasury/treasury-management-rules.md)
 
+## Decentralising our governance
+
+* [Overview](decentralising-our-governance/overview.md)
+* [Draft Governance Framework document](decentralising-our-governance/framework.md)
+* [Draft Governance Framework in detail](decentralising-our-governance/governance-framework/README.md)
+  * [Process](decentralising-our-governance/governance-framework/process.md)
+  * [Introduction](decentralising-our-governance/governance-framework/introduction.md)
+  * [Overview of Ambassadors Program](decentralising-our-governance/governance-framework/overview-of-ambassadors-program.md)
+  * [Principles and Assumptions](decentralising-our-governance/governance-framework/principles-and-assumptions.md)
+  * [Framework](decentralising-our-governance/governance-framework/framework.md)
+  * [Implementation and Adoption](decentralising-our-governance/governance-framework/implementation-and-adoption.md)
+  * [Conclusion](decentralising-our-governance/governance-framework/conclusion.md)
+
 ## Useful links
 
 * [Ambassador Program links](useful-links/ambassadors-links.md)
@@ -49,16 +62,3 @@
   * [Video Workgroup website](https://vw-snetambassadors.carrd.co/)
 * [Onboarding WorkGroup](workgroups-space/onboarding-workgroup.md)
 * [Research and Development Guild](workgroups-space/research-and-development-guild.md)
-
-## Governance
-
-* [Overview](knowledge-base/overview.md)
-  * [Draft Governance Framework document](governance/overview/framework.md)
-  * [Draft Governance Framework in detail](governance/overview/governance-framework/README.md)
-    * [Process](governance/overview/governance-framework/process.md)
-    * [Introduction](governance/overview/governance-framework/introduction.md)
-    * [Overview of Ambassadors Program](governance/overview/governance-framework/overview-of-ambassadors-program.md)
-    * [Principles and Assumptions](governance/overview/governance-framework/principles-and-assumptions.md)
-    * [Framework](governance/overview/governance-framework/framework.md)
-    * [Implementation and Adoption](governance/overview/governance-framework/implementation-and-adoption.md)
-    * [Conclusion](governance/overview/governance-framework/conclusion.md)
