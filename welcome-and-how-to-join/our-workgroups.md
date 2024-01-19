@@ -94,7 +94,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 ### **Process Guild** ⁠🧩
 
-**What it does:** Helps to establish processes and prioritize Ambassador Program activities. includes members from Knowledge Base WG and Dework PBL WG. Process Guild.\
+**What it does:** Helps to establish processes and prioritize Ambassador Program activities. includes members from Knowledge Base WorkGroup and Dework PBL WorkGroup.\
 **Skills you can use or learn here:** How to plan and organise working processes; working on Miro Board.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
@@ -112,7 +112,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 ### **Research and Development Guild** ⁠🥚
 
-**What it does:** Discusses new ideas and processes, and progresses them. Also runs _**AI Sandbox,**_ a fortnightly practical workshop on using AI tools. \
+**What it does:** Discusses new ideas and processes; researches and progresses them. Also runs _**AI Sandbox,**_ a fortnightly practical workshop on using AI tools. \
 **Skills you can use or learn here:** Ideation; group discussion; gain an insight into the Program; using AI tools.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
