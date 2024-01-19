@@ -1,5 +1,5 @@
-# Overview
+# Governance overview
 
-Members of the SinguarityNET Ambassador Program are active participants in the effort to decentralise governance of the SinguarityNET ecosystem.
+Members of the Ambassador Program are active participants in the effort to decentralise governance of the SinguarityNET ecosystem.
 
 There have been several experiments with decentralising governance, notably the community-developed whitepaper _**SingularityNET Ambassadors - Governance Framework**_ outlined in the following pages.

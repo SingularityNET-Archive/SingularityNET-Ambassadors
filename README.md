@@ -4,11 +4,11 @@
 
 ## Welcome!
 
-The SingularityNET (sNET) Ambassador Program is dedicated to building public awareness of decentralised AI/AGI, and of the sNET ecosystem. It provides structure and rewards to community members who are contributing towards a beneficial [AGI](https://en.wikipedia.org/wiki/Artificial\_general\_intelligence).&#x20;
+The SingularityNET Ambassador Program is dedicated to building public awareness of decentralised AI/AGI, and of the SingularityNET ecosystem. It provides structure and rewards to community members who are contributing towards a beneficial [AGI](https://en.wikipedia.org/wiki/Artificial\_general\_intelligence).&#x20;
 
-## The sNET ecosystem
+## The SingularityNET ecosystem
 
-To find out more about the wider sNET ecosystem, see [https://singularitynet.io/ecosystem](https://singularitynet.io/ecosystem). \
+To find out more about the wider SingularityNET ecosystem, see [https://singularitynet.io/ecosystem](https://singularitynet.io/ecosystem). \
 You can also read [this blogpost](https://blog.singularitynet.io/the-path-to-agi-singularitynet-ecosystem-cooperation-159fcedf63c7).
 
 ## Core values&#x20;

@@ -9,8 +9,8 @@
   * [3) Start attending the weekly Town Hall meetings](welcome-and-how-to-join/5-steps-to-join-the-program/3-start-attending-the-weekly-town-hall-meetings.md)
   * [4) Create a wallet and join Dework](welcome-and-how-to-join/5-steps-to-join-the-program/4-create-a-wallet-and-join-dework.md)
   * [5) Get involved with WorkGroups](welcome-and-how-to-join/5-steps-to-join-the-program/5-get-involved-with-workgroups.md)
-* [Our WorkGroups](welcome-and-how-to-join/meeting-schedule.md)
-* [Our documentation](welcome-and-how-to-join/meeting-notes.md)
+* [Our WorkGroups](welcome-and-how-to-join/our-workgroups.md)
+* [Our documentation](welcome-and-how-to-join/our-documentation.md)
 
 ## Rewards and Treasury
 
@@ -20,16 +20,16 @@
 
 ## Decentralising our governance
 
-* [Overview](decentralising-our-governance/overview.md)
-* [Draft Governance Framework document](decentralising-our-governance/framework.md)
-* [Draft Governance Framework in detail](decentralising-our-governance/governance-framework/README.md)
-  * [Process](decentralising-our-governance/governance-framework/process.md)
-  * [Introduction](decentralising-our-governance/governance-framework/introduction.md)
-  * [Overview of Ambassadors Program](decentralising-our-governance/governance-framework/overview-of-ambassadors-program.md)
-  * [Principles and Assumptions](decentralising-our-governance/governance-framework/principles-and-assumptions.md)
-  * [Framework](decentralising-our-governance/governance-framework/framework.md)
-  * [Implementation and Adoption](decentralising-our-governance/governance-framework/implementation-and-adoption.md)
-  * [Conclusion](decentralising-our-governance/governance-framework/conclusion.md)
+* [Governance overview](decentralising-our-governance/overview.md)
+* [Draft Governance Framework document](decentralising-our-governance/framework-document.md)
+* [Draft Governance Framework in detail](decentralising-our-governance/governance-framework-detail/README.md)
+  * [Process](decentralising-our-governance/governance-framework-detail/process.md)
+  * [Introduction](decentralising-our-governance/governance-framework-detail/introduction.md)
+  * [Overview of Ambassadors Program](decentralising-our-governance/governance-framework-detail/overview-of-ambassadors-program.md)
+  * [Principles and Assumptions](decentralising-our-governance/governance-framework-detail/principles-and-assumptions.md)
+  * [Framework](decentralising-our-governance/governance-framework-detail/framework.md)
+  * [Implementation and Adoption](decentralising-our-governance/governance-framework-detail/implementation-and-adoption.md)
+  * [Conclusion](decentralising-our-governance/governance-framework-detail/conclusion.md)
 
 ## Useful links
 

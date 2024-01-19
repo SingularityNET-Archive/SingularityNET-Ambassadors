@@ -6,21 +6,25 @@
 This page is updated quarterly. It was last updated on <mark style="color:red;">18th January 2024</mark>.
 {% endhint %}
 
-## Our current WorkGroups
+## An alphabetical list of our current WorkGroups
 
-### **Archives workgroup** ⁠📑
+### **Archives WorkGroup** ⁠📑
 
 **What it does:** Keeps an archival record of Ambassador Program meetings, and explores how to use LLMs (large language models) to make records searchable.\
 **Skills you can use or learn here:** Recordkeeping; archival theory and practice; how to manage a project on GitHub; AI tool development; engaging the community with its own history.\
-**How to join:** Attend meetings. You will ideally need to join our GitHub too - ask for help in our Discord channel if needed.
+**How to join:** Attend meetings. You will ideally need to join our GitHub too - ask for help in our Discord channel if needed.\
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1SxkYHvhsXlLYcEaDMXcfuKSSruK8fBT5VGMWhlsoVbY/edit?usp=sharing)\
+**Most recent budget request:**
 
 ***
 
-### **Dework PBL Workgroup** ⁠✨
+### **Dework PBL WorkGroup** ⁠✨
 
 **What it does:** Creating project-based learning material about Dework on the Andamio platform, in collaboration with Gimbalabs and Governance Guild. \
 **Skills you can use or learn here:** Planning and making learning resources; how to use the knowledge management platform _Andamio_; how to use Dework.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ***
 
@@ -28,15 +32,19 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 **What it does:** In the process of figuring out what we could be educating ourselves on.\
 **Skills you can use or learn here:** Creating learning resources; community engagement.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ***
 
-### **Governance Workgroup** ⁠💡
+### **Governance WorkGroup** ⁠💡
 
 **What it does:** Discusses governance issues for the Ambassador program, such as how we make decisions, how we reward contribution, how we decentralise, and how we ensure inclusion.\
 **Skills you can use or learn here:** Blockchain governance in theory and practice; decision-making; managing contribution and reputation systems; the ethics of decentralised governance; engaging the community with governance issues.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ***
 
@@ -44,33 +52,43 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 **What it does:** Works on the Ambassador program's media and outreach. Related workgroups are Writers, Video and Translation workgroups. \
 **Skills you can use or learn here:** Planning and carrying out marketing campaigns; social media engagement.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
-#### **Writers’ workgroup** ⁠📣 (part of Marketing Guild)
-
-**What it does:** Writes text for the Ambassador program.\
-**Skills you can use or learn here:** Writing to a brief; editing.\
-**How to join:** Attend meetings. There is a tiered structure for contributions, and you’ll need to pass a skills test to be able to take up Writers’ Group bounties.&#x20;
-
-#### **Video workgroup** ⁠📣 (part of Marketing Guild)
-
-**What it does:** Produces videos for the Ambassador program and manages video content.\
-**Skills you can use or learn here:** Videomaking and editing; working to a brief.\
-**How to join:** Attend meetings.
-
-#### **Translation workgroup** ⁠📣 (part of Marketing Guild)
+### **Translation WorkGroup** ⁠📣 (part of Marketing Guild)
 
 **What it does:** Translates SNET ecosystem articles into various languages for the community.\
 **Skills you can use or learn here:** Translation; managing your own workload; working to a brief.\
-**How to join:** This group doesn't hold meetings; translators work by themselves on tasks that they have signed up for on Dework. If you're interested, apply to [this Dework task](https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=29398e2a-f7f3-4341-974c-70ae92f3c610).
+**How to join:** This group doesn't hold meetings; translators work by themselves on tasks that they have signed up for on Dework. If you're interested, apply to [this Dework task](https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=29398e2a-f7f3-4341-974c-70ae92f3c610).\
+**Most recent Quarterly Report**\
+**Most recent budget request**
+
+### **Video WorkGroup** ⁠📣 (part of Marketing Guild)
+
+**What it does:** Produces videos for the Ambassador program and manages video content.\
+**Skills you can use or learn here:** Videomaking and editing; working to a brief.\
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
+
+### **Writers' WorkGroup** ⁠📣 (part of Marketing Guild)
+
+**What it does:** Writes text for the Ambassador program.\
+**Skills you can use or learn here:** Writing to a brief; editing.\
+**How to join:** Attend meetings. There is a tiered structure for contributions, and you’ll need to pass a skills test to be able to take up Writers’ Group bounties. \
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ***
 
-### **Onboarding workgroup** ⁠🎢
+### **Onboarding WorkGroup** ⁠🎢
 
 **What it does:** We work on how to onboard new people into the Ambassador program.\
 **Skills you can use or learn here:** Community engagement; research and gathering community opinion; good place to start learning meeting facilitation and documentation skills.\
-**How to join:**  Attend meetings.
+**How to join:**  Attend meetings.\
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/173UxTc38LhXwR6QuJCKpH9CivgMCQhL4jZZXoMOw-nM/edit?usp=sharing)\
+**Most recent budget request**
 
 ***
 
@@ -78,13 +96,17 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 **What it does:** Helps to establish processes and prioritize Ambassador Program activities. includes members from Knowledge Base WG and Dework PBL WG. Process Guild.\
 **Skills you can use or learn here:** How to plan and organise working processes; working on Miro Board.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
-#### **Knowledge Base Workgroup** ⁠🧩 (part of Process Guild)
+### **Knowledge Base WorkGroup** ⁠🧩 (part of Process Guild)
 
 **What it does:** Organizing and creating an Ambassador Program Knowledge Base.\
 **Skills you can use or learn here:** Information management; working on Miro Board.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ***
 
@@ -92,7 +114,9 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 **What it does:** Discusses new ideas and processes, and progresses them. Also runs _**AI Sandbox,**_ a fortnightly practical workshop on using AI tools. \
 **Skills you can use or learn here:** Ideation; group discussion; gain an insight into the Program; using AI tools.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ***
 
@@ -100,7 +124,9 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 **What it does:** Discusses strategy for the Ambassador program on a visionary or 10,000-foot level.\
 **Skills you can use or learn here:** Ideation; discussion; community engagement.\
-**How to join:** Attend meetings.
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ***
 
@@ -109,7 +135,10 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Develops Ambassador program rules around budgets, payment of completed tasks and anything related to financial activities. \
 **Skills you can use or learn here:** Financial planning and management; monitoring and evaluation of funding; on-chain financial records; how to use the program's Treasury system.\
 **How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
+***
 
 {% hint style="info" %}
 If you have an idea for a new WorkGroup, feel free to suggest it! You can raise it in Discord in the <mark style="color:red;">#ambassador-general</mark> channel, or in any meeting that feels relevant.
