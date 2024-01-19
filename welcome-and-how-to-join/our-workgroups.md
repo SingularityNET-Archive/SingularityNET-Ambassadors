@@ -112,7 +112,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 
 ### **Research and Development Guild** ⁠🥚
 
-**What it does:** Discusses new ideas and processes; researches and progresses them. Also runs _**AI Sandbox,**_ a fortnightly practical workshop on using AI tools. \
+**What it does:** Connects technology enthusiasts and builders of all kinds: software engineers, researchers, data scientists, analysts, and thinkers. Researches and builds new ideas, tools and processes. Also runs _**AI Sandbox,**_ a fortnightly practical workshop on using AI tools. \
 **Skills you can use or learn here:** Ideation; group discussion; gain an insight into the Program; using AI tools.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
