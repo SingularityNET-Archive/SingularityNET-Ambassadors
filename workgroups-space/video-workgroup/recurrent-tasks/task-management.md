@@ -21,3 +21,4 @@ Task management involves the following:
    * Sharing the submission in the discord channel with the rest of the members.
    * Auditing tasks based on the requirements and based on the members' feedback.
    * Post the link to the clip in the [content sheet](https://docs.google.com/spreadsheets/d/1xqbs48KnfMBY\_NgMp\_Vo48dHrkEpr\_bCM0KfL7x7z4k/edit?usp=sharing).
+5. Keep a record of your activities as subtasks on Dework.
