@@ -13,3 +13,5 @@ Weekly meeting facilitation involves the following:
    * Open discussions (if time allows it)
    * Ending by the facilitator
 4. Updating the community about the video workgroup in the weekly Ambassador Program Town Hall.
+5. Present workgroup updates at the end of the month using these [slides](https://drive.google.com/drive/folders/12uH1YFliyhsMSX237sBLXEo33gtYv2Xj).
+6. Keep a record of your activities as subtasks on Dework.
