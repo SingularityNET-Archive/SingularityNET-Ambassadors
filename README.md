@@ -19,7 +19,7 @@ The core values of our Ambassador program are&#x20;
 * **decentralisation, and**
 * **involvement.**&#x20;
 
-This means community members are fully involved in decision-making, including decisions on how tokens are spent. We do this through our weekly Town Hall meetings, which are open to all; and through various other experiments in contribution-based, decentralised decision-making.
+This means community members are fully involved in decision-making, including decisions on how tokens are spent. We do this through our weekly Town Hall meetings, which are open to all; and through various other [experiments in contribution-based, decentralised decision-making](https://snet-ambassadors.gitbook.io/home/decentralising-our-governance/overview).
 
 Together, we can work towards creating a world where AGI benefits all of humanity.
 
