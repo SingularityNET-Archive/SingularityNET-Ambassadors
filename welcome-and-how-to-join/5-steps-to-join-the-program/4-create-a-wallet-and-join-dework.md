@@ -4,7 +4,9 @@ Dework is the tool we use to track people's work and contributions. Sign up [her
 
 Next, complete the [introduction task](https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=b515d6d1-7f37-4c84-9f98-e0927f9e3cf5). Remember to submit your Cardano native wallet address through the form embedded in the task - this is used for distributing rewards for completed tasks.&#x20;
 
-If you don't have a suitable wallet yet, [here's a short guide](https://docs.google.com/document/d/1t4kGaNOLLkI-xwJyg32s\_OrR4ojV3ODI1xmiUbxaQG0/edit?usp=sharing) on how to create one.
+Please be aware that this process links your wallet address with your Discord name in a relatively public way. To protect your privacy, you might want to create a new wallet, which only has Ambassador Program transactions in it, and submit that. \
+\
+If you need help on how to create a wallet,  [here's a short guide](https://docs.google.com/document/d/1t4kGaNOLLkI-xwJyg32s\_OrR4ojV3ODI1xmiUbxaQG0/edit?usp=sharing) on how to do it.
 
 And if you're unfamiliar with Dework, below is a short video on how it works: or you can read our [Dework PBL (Project-Based Learning) module](https://andamio-andamiojs-starter-lms-git-governance-g-1b84f0-gimbalabs.vercel.app/course/module/201/2018) to find out about Dework in detail.
 
