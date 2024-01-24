@@ -14,7 +14,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Recordkeeping; archival theory and practice; how to manage a project on GitHub; AI tool development; engaging the community with its own history.\
 **How to join:** Attend meetings. You will ideally need to join our GitHub too - ask for help in our Discord channel if needed.\
 [**Most recent Quarterly Report**](https://docs.google.com/document/d/1SxkYHvhsXlLYcEaDMXcfuKSSruK8fBT5VGMWhlsoVbY/edit?usp=sharing)\
-**Most recent budget request:**
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1pAIKurQx07RAjOWQQc1LPeuzTm982H6cJRZ3GlLdLl8/edit?usp=sharing)
 
 ***
 
