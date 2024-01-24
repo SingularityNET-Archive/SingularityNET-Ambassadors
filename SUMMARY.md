@@ -10,6 +10,7 @@
   * [4) Create a wallet and join Dework](welcome-and-how-to-join/5-steps-to-join-the-program/4-create-a-wallet-and-join-dework.md)
   * [5) Get involved with WorkGroups](welcome-and-how-to-join/5-steps-to-join-the-program/5-get-involved-with-workgroups.md)
 * [Our WorkGroups](welcome-and-how-to-join/our-workgroups.md)
+* [FAQ](welcome-and-how-to-join/faq.md)
 * [Our documentation](welcome-and-how-to-join/our-documentation.md)
 
 ## Rewards and Treasury
