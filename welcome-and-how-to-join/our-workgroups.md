@@ -105,7 +105,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Organizing and creating an Ambassador Program Knowledge Base.\
 **Skills you can use or learn here:** Information management; working on Miro Board.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing) (note: as this is a new group, their most recent report is their Proposal to set up the WorkGroup)\
 **Most recent budget request**
 
 ***
