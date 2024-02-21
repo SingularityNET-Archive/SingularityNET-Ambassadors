@@ -7,7 +7,7 @@
 * [Archives](https://snet-ambassadors.gitbook.io/singularitynet-archive/)
 * [Treasury Guild Dashboard](https://treasuryguild.com/Singularity%20Net)
 * [X (formerly Twitter)](https://twitter.com/SNET\_Ambassador)
-* [Youtube](https://www.youtube.com/@SNET\_Ambassador)
+* [YouTube](https://www.youtube.com/@SNET\_Ambassador)
 * [Instagram](https://www.instagram.com/snet\_ambassadors/)
 * [TikTok](https://www.tiktok.com/@snet\_ambassadors)
 

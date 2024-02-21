@@ -24,7 +24,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Planning and making learning resources; how to use the knowledge management platform _Andamio_; how to use Dework.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit?usp=sharing)
 
 ***
 
@@ -34,7 +34,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Creating learning resources; community engagement.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
 
 ***
 
@@ -54,15 +54,15 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Planning and carrying out marketing campaigns; social media engagement.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1REBEt1JUSdVU0p9KuT5Z3QHmIM99jKSTpjWcgbbqq9k/edit#gid=0)
 
 ### **Translation WorkGroup** ⁠📣 (part of Marketing Guild)
 
-**What it does:** Translates SNET ecosystem articles into various languages for the community.\
+**What it does:** Translates SingularityNET ecosystem articles into various languages for the community.\
 **Skills you can use or learn here:** Translation; managing your own workload; working to a brief.\
 **How to join:** This group doesn't hold meetings; translators work by themselves on tasks that they have signed up for on Dework. If you're interested, apply to [this Dework task](https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=29398e2a-f7f3-4341-974c-70ae92f3c610).\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1so-KW-g57JEAg2zjANDqIefnkNmkJmXldIUXAa5ni2U/edit?usp=sharing)
 
 ### **Video WorkGroup** ⁠📣 (part of Marketing Guild)
 
@@ -70,7 +70,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Videomaking and editing; working to a brief.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/document/d/1qu4UYsl9MSxeVbREl3KaahWP5HuO13W9tiAjgeELISo/edit?usp=sharing)
 
 ### **Writers' WorkGroup** ⁠📣 (part of Marketing Guild)
 
@@ -78,7 +78,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Writing to a brief; editing.\
 **How to join:** Attend meetings. There is a tiered structure for contributions, and you’ll need to pass a skills test to be able to take up Writers’ Group bounties. \
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing)
 
 ***
 
@@ -88,7 +88,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Community engagement; research and gathering community opinion; good place to start learning meeting facilitation and documentation skills.\
 **How to join:**  Attend meetings.\
 [**Most recent Quarterly Report**](https://docs.google.com/document/d/173UxTc38LhXwR6QuJCKpH9CivgMCQhL4jZZXoMOw-nM/edit?usp=sharing)\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1mwFPPabzXLixDG\_LkKvFp5tRER30sxT\_wGV3ySt-MZ4/edit?usp=sharing)
 
 ***
 
@@ -106,7 +106,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Information management; working on Miro Board.\
 **How to join:** Attend meetings.\
 [**Most recent Quarterly Report**](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing) (note: as this is a new group, their most recent report is their Proposal to set up the WorkGroup)\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
 
 ***
 
@@ -116,7 +116,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Ideation; group discussion; gain an insight into the Program; using AI tools.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/document/d/1PNd2LwMJSZw38w\_G8vAph20pTWmjT62bcYmiEUB0ve8/edit?usp=sharing)
 
 ***
 
@@ -126,7 +126,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Ideation; discussion; community engagement.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1ob5JRw10hoYxcccmyGNSlqYx8KqPKDcHdVdh34-xuEo/edit?usp=sharing)
 
 ***
 
@@ -136,7 +136,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Financial planning and management; monitoring and evaluation of funding; on-chain financial records; how to use the program's Treasury system.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://app.gitbook.com/s/ZHcjPfYuvdgbL9xB0Had/activities/2023/august-2023)
 
 ***
 
