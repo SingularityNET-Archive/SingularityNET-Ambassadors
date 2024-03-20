@@ -40,8 +40,8 @@
 ## WorkGroups Space
 
 * [Storage: our open Google Drive folder](workgroups-space/open-google-drive-folder.md)
-* [📽 Video Workgroup](workgroups-space/video-workgroup/README.md)
-  * [⚖ Structure and Governance](workgroups-space/video-workgroup/structure-and-governance/README.md)
+* [📽️ Video Workgroup](workgroups-space/video-workgroup/README.md)
+  * [⚖️ Structure and Governance](workgroups-space/video-workgroup/structure-and-governance/README.md)
     * [Platforms and KPIs](workgroups-space/video-workgroup/structure-and-governance/platforms-and-kpis.md)
     * [Roles and Responsibilities](workgroups-space/video-workgroup/structure-and-governance/roles-and-responsibilities.md)
     * [Weekly meeting](workgroups-space/video-workgroup/structure-and-governance/weekly-meeting.md)
@@ -62,7 +62,7 @@
   * [📁 Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
   * [🌐 Video Workgroup website](https://videoworkgroup.carrd.co/)
 * [🔁 Research and Development Guild](workgroups-space/research-and-development-guild/README.md)
-  * [⚖ Structure and Governance](workgroups-space/research-and-development-guild/structure-and-governance.md)
+  * [⚖️ Structure and Governance](workgroups-space/research-and-development-guild/structure-and-governance.md)
   * [📜 Recurrent Tasks](workgroups-space/research-and-development-guild/recurrent-tasks.md)
   * [❓ Q\&A](workgroups-space/research-and-development-guild/q-and-a.md)
   * [📁 R\&D Guild folder](https://drive.google.com/drive/u/3/folders/176tiT3BSS5PLF\_nyiLBfuufm\_z7FPDcD)
