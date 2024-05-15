@@ -14,7 +14,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Recordkeeping; archival theory and practice; how to manage a project on GitHub; AI tool development; engaging the community with its own history.\
 **How to join:** Attend meetings. You will ideally need to join our GitHub too - ask for help in our Discord channel if needed.\
 [**Most recent Quarterly Report**](https://docs.google.com/document/d/1SxkYHvhsXlLYcEaDMXcfuKSSruK8fBT5VGMWhlsoVbY/edit?usp=sharing)\
-[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1pAIKurQx07RAjOWQQc1LPeuzTm982H6cJRZ3GlLdLl8/edit?usp=sharing)
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1H0bmVcvpLa5Vz29Nfebu-amXLu3OYustyqgfxUWSEyI/edit?usp=sharing)
 
 ***
 
@@ -23,8 +23,8 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Creating project-based learning material about Dework on the Andamio platform, in collaboration with Gimbalabs and Governance Guild. \
 **Skills you can use or learn here:** Planning and making learning resources; how to use the knowledge management platform _Andamio_; how to use Dework.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-[**Most recent budget request**](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit?usp=sharing)
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1s09ifUK8J921X-oJRJzVAyPQKWO0FCKGEoYPDXyi66M/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/document/d/1EAIDdfptFiuf-LgHhFpv2KMvbNLuS3s89qX92bLZrzM/edit?usp=sharing)
 
 ***
 
@@ -34,9 +34,15 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Creating learning resources; community engagement.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1Hnj3syHlwtunfqIJjm45ak9E3ki8DmZ7RObD2wEn-Lg/edit?usp=sharing)
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1cwcRDFK-2qeiXCEpCLcDljTn1-m3V4Hiy9kbDVqlL3M/edit#gid=0)
 
-***
+### Gamers Guild 🎮
+
+**What it does:** The guild helps to educate and onboard community members through gamification, currently working on developing VR(Virtual Reality) of Ambassador Program on Roblox + conduct gaming sessions for community members, and cover gamified projects launched by SNET through educational workshops.\
+**Skills you can use or learn here:** How operate different game making softwares, 3D Modeling and Animation, Marketing and Community Management , Adaptability, Learning Agility and many more.\
+**How to join:** Attend meetings.\
+**Most recent Quarterly Report**\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1cu7IqIl7f44KP5evdlIQXpENMouEqgAuY7DtqpPFzv8/edit?usp=sharing)
 
 ### **Governance WorkGroup** ⁠💡
 
@@ -44,7 +50,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Blockchain governance in theory and practice; decision-making; managing contribution and reputation systems; the ethics of decentralised governance; engaging the community with governance issues.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII\_mXmkjdxG1iD-f5B2Sc/edit#gid=0)
 
 ***
 
@@ -70,7 +76,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Videomaking and editing; working to a brief.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-[**Most recent budget request**](https://docs.google.com/document/d/1qu4UYsl9MSxeVbREl3KaahWP5HuO13W9tiAjgeELISo/edit?usp=sharing)
+[**Most recent budget request**](https://docs.google.com/document/d/1iyr\_wJPQYaJ-Z-TEfii5QzGlKizhS7lImx6\_3pu2Y1o/edit?usp=sharing)
 
 ### **Writers' WorkGroup** ⁠📣 (part of Marketing Guild)
 
@@ -87,8 +93,8 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** We work on how to onboard new people into the Ambassador program.\
 **Skills you can use or learn here:** Community engagement; research and gathering community opinion; good place to start learning meeting facilitation and documentation skills.\
 **How to join:**  Attend meetings.\
-[**Most recent Quarterly Report**](https://docs.google.com/document/d/173UxTc38LhXwR6QuJCKpH9CivgMCQhL4jZZXoMOw-nM/edit?usp=sharing)\
-[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1mwFPPabzXLixDG\_LkKvFp5tRER30sxT\_wGV3ySt-MZ4/edit?usp=sharing)
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG\_TtVw/edit?usp=sharing)
 
 ***
 
@@ -98,15 +104,15 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** How to plan and organise working processes; working on Miro Board.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent budget request**](https://docs.google.com/document/d/1EAIDdfptFiuf-LgHhFpv2KMvbNLuS3s89qX92bLZrzM/edit?usp=sharing)
 
 ### **Knowledge Base WorkGroup** ⁠🧩 (part of Process Guild)
 
 **What it does:** Organizing and creating an Ambassador Program Knowledge Base.\
 **Skills you can use or learn here:** Information management; working on Miro Board.\
 **How to join:** Attend meetings.\
-[**Most recent Quarterly Report**](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing) (note: as this is a new group, their most recent report is their Proposal to set up the WorkGroup)\
-[**Most recent budget request**](https://docs.google.com/document/d/1Lb9DwNSzmToyMhl5qZG9QEFipH9ZmlnDNaVU1jYeqFc/edit?usp=sharing)
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1B\_u4kYNusZdGOq1xK8km54mOsBloM9oXGXzqpv9DxU4/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/document/d/1EAIDdfptFiuf-LgHhFpv2KMvbNLuS3s89qX92bLZrzM/edit?usp=sharing)
 
 ***
 
@@ -115,8 +121,8 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Connects technology enthusiasts and builders of all kinds: software engineers, researchers, data scientists, analysts, and thinkers. Researches and builds new ideas, tools and processes. Also runs _**AI Sandbox,**_ a fortnightly practical workshop on using AI tools. \
 **Skills you can use or learn here:** Ideation; group discussion; gain an insight into the Program; using AI tools.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-[**Most recent budget request**](https://docs.google.com/document/d/1PNd2LwMJSZw38w\_G8vAph20pTWmjT62bcYmiEUB0ve8/edit?usp=sharing)
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1Z\_VytKSkGb7MYoxREQ5Umz2SAIXuTYlr\_ToMer-eg38/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1H0bmVcvpLa5Vz29Nfebu-amXLu3OYustyqgfxUWSEyI/edit?usp=sharing)
 
 ***
 
@@ -135,8 +141,8 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Develops Ambassador program rules around budgets, payment of completed tasks and anything related to financial activities. \
 **Skills you can use or learn here:** Financial planning and management; monitoring and evaluation of funding; on-chain financial records; how to use the program's Treasury system.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-[**Most recent budget request**](https://app.gitbook.com/s/ZHcjPfYuvdgbL9xB0Had/activities/2023/august-2023)
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/197Z1HboW5EqMXu-Skps8qSK7evHk1tojJG1yMOh22W0/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/document/d/19k06OQEXJe0nYSrVVRLw1t\_3BXSnUcXwsmLV9Tp07C4/edit?usp=sharing)
 
 ***
 

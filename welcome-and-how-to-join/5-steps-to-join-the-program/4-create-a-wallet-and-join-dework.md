@@ -2,7 +2,7 @@
 
 Dework is the tool we use to track people's work and contributions. Sign up [here](https://app.dework.xyz/singularitynet-ambas).&#x20;
 
-Next, complete the [introduction task](https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=b515d6d1-7f37-4c84-9f98-e0927f9e3cf5). Remember to submit your Cardano native wallet address through the form embedded in the task - this is used for distributing rewards for completed tasks.&#x20;
+Next, complete the [introduction task](https://app.dework.xyz/singularitynet-ambas/team-tasks-25?taskId=188e1e95-97ea-4c85-be1c-c8323a4e442b). Remember to submit your Cardano native wallet address through the form embedded in the task - this is used for distributing rewards for completed tasks.&#x20;
 
 Please be aware that this process links your wallet address with your Discord name in a relatively public way. To protect your privacy, you might want to create a new wallet, which only has Ambassador Program transactions in it, and submit that. \
 \
