@@ -13,7 +13,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Keeps an archival record of Ambassador Program meetings, and explores how to use LLMs (large language models) to make records searchable.\
 **Skills you can use or learn here:** Recordkeeping; archival theory and practice; how to manage a project on GitHub; AI tool development; engaging the community with its own history.\
 **How to join:** Attend meetings. You will ideally need to join our GitHub too - ask for help in our Discord channel if needed.\
-[**Most recent Quarterly Report**](https://docs.google.com/document/d/1SxkYHvhsXlLYcEaDMXcfuKSSruK8fBT5VGMWhlsoVbY/edit?usp=sharing)\
+[**Most recent Quarterly Report**](../workgroups-space/open-google-drive-folder.md)\
 [**Most recent budget request**](https://docs.google.com/spreadsheets/d/1H0bmVcvpLa5Vz29Nfebu-amXLu3OYustyqgfxUWSEyI/edit?usp=sharing)
 
 ***
