@@ -3,7 +3,7 @@
 {% hint style="info" %}
 <mark style="color:red;">**NOTE:**</mark> Every few weeks, we run an Onboarding session on Zoom, where you can learn more about the Ambassador program and ask questions.
 
-The next one is: <mark style="color:red;">**Thurs 16th May 2024, 13:00 UTC.**</mark>\
+The next one is: <mark style="color:red;">**TBA**</mark>\
 You can find the Zoom link [on our Calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com)
 {% endhint %}
 
