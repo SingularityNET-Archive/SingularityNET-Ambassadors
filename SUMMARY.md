@@ -3,12 +3,11 @@
 ## Welcome and how to join
 
 * [SingularityNET Ambassador Program: Welcome!](README.md)
-* [5 steps to join the Program](welcome-and-how-to-join/5-steps-to-join-the-program/README.md)
-  * [1) Complete the sign-up form](welcome-and-how-to-join/5-steps-to-join-the-program/1-complete-the-sign-up-form.md)
-  * [2) Join us on Discord](welcome-and-how-to-join/5-steps-to-join-the-program/2-join-us-on-discord.md)
-  * [3) Start attending the weekly Town Hall meetings](welcome-and-how-to-join/5-steps-to-join-the-program/3-start-attending-the-weekly-town-hall-meetings.md)
-  * [4) Create a wallet and join Dework](welcome-and-how-to-join/5-steps-to-join-the-program/4-create-a-wallet-and-join-dework.md)
-  * [5) Get involved with WorkGroups](welcome-and-how-to-join/5-steps-to-join-the-program/5-get-involved-with-workgroups.md)
+* [How to join the Program](welcome-and-how-to-join/how-to-join-the-program/README.md)
+  * [1) Join us on Discord](welcome-and-how-to-join/how-to-join-the-program/1-join-us-on-discord.md)
+  * [2) Start attending the weekly Town Hall meetings](welcome-and-how-to-join/how-to-join-the-program/2-start-attending-the-weekly-town-hall-meetings.md)
+  * [3) Create a wallet and join Dework](welcome-and-how-to-join/how-to-join-the-program/3-create-a-wallet-and-join-dework.md)
+  * [4) Get involved with WorkGroups](welcome-and-how-to-join/how-to-join-the-program/4-get-involved-with-workgroups.md)
 * [Our WorkGroups](welcome-and-how-to-join/our-workgroups.md)
 * [FAQ](welcome-and-how-to-join/faq.md)
 * [Our documentation](welcome-and-how-to-join/our-documentation.md)

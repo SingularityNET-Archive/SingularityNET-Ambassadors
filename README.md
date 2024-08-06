@@ -25,5 +25,7 @@ Together, we can work towards creating a world where AGI benefits all of humanit
 
 ## Watch our Welcome video
 
-{% embed url="https://youtu.be/PKwx8H9DkJs" %}
+
+
+{% embed url="https://www.youtube.com/watch?v=Wg9y98gxlCU" %}
 

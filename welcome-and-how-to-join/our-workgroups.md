@@ -3,7 +3,7 @@
 {% hint style="info" %}
 **NOTE:** Workgroups change from time to time - new ones might start, and old ones might stop meeting. So always check [the Calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com) - the most up-to-date source - to see if a meeting is actually happening; and note that some groups only meet once every 2 weeks.
 
-This page is updated quarterly. It was last updated on <mark style="color:red;">27th May 2024</mark>.
+This page is updated quarterly. It was last updated on <mark style="color:red;">6th August 2024</mark>.
 {% endhint %}
 
 ## An alphabetical list of our current WorkGroups
@@ -11,7 +11,7 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 ### **Archives WorkGroup** ⁠📑
 
 **What it does:** Keeps an archival record of Ambassador Program meetings, and explores how to use LLMs (large language models) to make records searchable.\
-**Skills you can use or learn here:** Recordkeeping; archival theory and practice; how to manage a project on GitHub; AI tool development; engaging the community with its own history.\
+**Skills you can use or learn here:** Record keeping; archival theory and practice; how to manage a project on GitHub; AI tool development; engaging the community with its own history.\
 **How to join:** Attend meetings. You will ideally need to join our GitHub too - ask for help in our Discord channel if needed.\
 [**Most recent Quarterly Report**](../workgroups-space/open-google-drive-folder.md)\
 [**Most recent budget request**](https://docs.google.com/spreadsheets/d/1H0bmVcvpLa5Vz29Nfebu-amXLu3OYustyqgfxUWSEyI/edit?usp=sharing)
@@ -25,8 +25,6 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **How to join:** Attend meetings.\
 [**Most recent Quarterly Report**](https://docs.google.com/document/d/1s09ifUK8J921X-oJRJzVAyPQKWO0FCKGEoYPDXyi66M/edit?usp=sharing)\
 [**Most recent budget request**](https://docs.google.com/document/d/1EAIDdfptFiuf-LgHhFpv2KMvbNLuS3s89qX92bLZrzM/edit?usp=sharing)
-
-***
 
 ### **Education Guild** ⁠📚&#x20;
 

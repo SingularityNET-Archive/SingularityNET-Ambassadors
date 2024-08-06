@@ -1,10 +1,9 @@
-# 5 steps to join the Program
+# How to join the Program
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTE:**</mark> Every few weeks, we run an Onboarding session on Zoom, where you can learn more about the Ambassador program and ask questions.
+<mark style="color:red;">**NOTE:**</mark> <mark style="background-color:red;">Every few weeks, we run an Onboarding session on Zoom, where you can learn more about the Ambassador program and ask questions.</mark>
 
-The next one is: <mark style="color:red;">**TBA**</mark>\
-You can find the Zoom link [on our Calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com)
+<mark style="background-color:red;">The next one is:</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**TBA**</mark>\ <mark style="background-color:red;">You can find the Zoom link</mark> [<mark style="background-color:red;">on our Calendar</mark>](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com)
 {% endhint %}
 
 The SingularityNET Ambassador Program is a bit different from other Ambassador programs you might have seen. We don't work only on promoting SingularityNET; we also work on strategy, governance, documentation, learning, and several other endeavours.
