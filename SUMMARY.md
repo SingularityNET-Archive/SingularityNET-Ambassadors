@@ -6,7 +6,7 @@
 * [How to join the Program](welcome-and-how-to-join/how-to-join-the-program/README.md)
   * [1) Join us on Discord](welcome-and-how-to-join/how-to-join-the-program/1-join-us-on-discord.md)
   * [2) Create a wallet and join Dework](welcome-and-how-to-join/how-to-join-the-program/2-create-a-wallet-and-join-dework.md)
-  * [3) Create a wallet and join Dework](welcome-and-how-to-join/how-to-join-the-program/3-create-a-wallet-and-join-dework.md)
+  * [3) Get the Ambassador program Google calendar](welcome-and-how-to-join/how-to-join-the-program/3-get-the-ambassador-program-google-calendar.md)
   * [4) Get involved with WorkGroups](welcome-and-how-to-join/how-to-join-the-program/4-get-involved-with-workgroups.md)
 * [5)Start attending the weekly Town Hall meetings](welcome-and-how-to-join/5-start-attending-the-weekly-town-hall-meetings.md)
 * [Our WorkGroups](welcome-and-how-to-join/our-workgroups.md)
