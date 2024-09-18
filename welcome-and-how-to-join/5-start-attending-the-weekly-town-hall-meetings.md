@@ -1,4 +1,4 @@
-# 3) Start attending the weekly Town Hall meetings
+# 5)Start attending the weekly Town Hall meetings
 
 Join us on Zoom, every Tuesday at 18:00 UTC, for Ambassador Town Hall - the main weekly get-together for anyone interested in the Ambassador program.&#x20;
 
