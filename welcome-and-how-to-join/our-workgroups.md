@@ -3,14 +3,26 @@
 {% hint style="info" %}
 **NOTE:** Workgroups change from time to time - new ones might start, and old ones might stop meeting. So always check [the Calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com) - the most up-to-date source - to see if a meeting is actually happening; and note that some groups only meet once every 2 weeks.
 
-This page is updated quarterly. It was last updated on <mark style="color:red;">1th September 2024</mark>.
+This page is updated quarterly. It was last updated on <mark style="color:red;">19th September 2024</mark>.
 {% endhint %}
 
 ## An alphabetical list of our current WorkGroups
 
 ### **African Guild** ⁠🌍
 
+**What it does:** This group is dedicated to expanding the SingularityNet footprint in Africa. \
+**Skills you can use or learn here:** Community Building and Engagement\
+**How to join:** Attend meetings. Everyone’s welcome - especially if you are from any African community or desire to propagate SingularityNet’s mission within your immediate African community/region.\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
+### **AI Ethics WorkGroup**
+
+**What it does:** \
+**Skills you can use or learn here:**\
+&#x20;**How to join:**\
+**Most recent Quarterly Report**\
+**Most recent budget request**
 
 ### **Archives WorkGroup** ⁠📑
 
@@ -62,7 +74,16 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **Skills you can use or learn here:** Planning and carrying out marketing campaigns; social media engagement.\
 **How to join:** Attend meetings.\
 **Most recent Quarterly Report**\
-[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1REBEt1JUSdVU0p9KuT5Z3QHmIM99jKSTpjWcgbbqq9k/edit#gid=0)
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1REBEt1JUSdVU0p9KuT5Z3QHmIM99jKSTpjWcgbbqq9k/edit#gid=0)\
+
+
+### **Onboarding WorkGroup** ⁠🎢
+
+**What it does:** We work on how to onboard new people into the Ambassador program.\
+**Skills you can use or learn here:** Community engagement; research and gathering community opinion; good place to start learning meeting facilitation and documentation skills.\
+**How to join:**  Attend meetings.\
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG\_TtVw/edit?usp=sharing)
 
 ### **Translation WorkGroup** ⁠📣 (part of Marketing Guild)
 
@@ -87,16 +108,6 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **How to join:** Attend meetings. There is a tiered structure for contributions, and you’ll need to pass a skills test to be able to take up Writers’ Group bounties. \
 **Most recent Quarterly Report**\
 [**Most recent budget request**](https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing)
-
-***
-
-### **Onboarding WorkGroup** ⁠🎢
-
-**What it does:** We work on how to onboard new people into the Ambassador program.\
-**Skills you can use or learn here:** Community engagement; research and gathering community opinion; good place to start learning meeting facilitation and documentation skills.\
-**How to join:**  Attend meetings.\
-[**Most recent Quarterly Report**](https://docs.google.com/document/d/1vQLBWOcK6-yZJRzCit4q7jaUhRkupvDZsIMSwdaJvGE/edit)\
-[**Most recent budget request**](https://docs.google.com/spreadsheets/d/12fxnBJNRqkV7D9O28q2yYU4jLyoCC9TVKimncG\_TtVw/edit?usp=sharing)
 
 ***
 
