@@ -17,7 +17,7 @@
 
 #### Reviews Turnaround Time:
 
-* 48 hours
+* 48 hours (24 hours for High priority videos)
 * If the review isn’t submitted within the given timeframe the rewards will be slashed by half.
 
 #### Reward:
