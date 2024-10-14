@@ -6,7 +6,7 @@ Any current rules on fund distribution will be shared here.
 
 ***
 
-### Treasury rules as of Q3 2024:
+### Treasury rules as of Q4 2024:
 
 * Workgroups submit quarterly budget requests. These should be supported by a written proposal on what the Workgroup aims to do in that quarter and a quarterly report of the previous quarter.
 * These requests are then put up for consent or objections by Core contributors.

@@ -5,7 +5,7 @@
 {% hint style="info" %}
 **NOTE:** Workgroups change from time to time - new ones might start, and old ones might stop meeting. So always check [the Calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com) - the most up-to-date source - to see if a meeting is actually happening; and note that some groups only meet once every 2 weeks.
 
-This page is updated quarterly. It was last updated on <mark style="color:red;">12th October 2024</mark>.
+This page is updated quarterly. It was last updated on <mark style="color:red;">14th October 2024</mark>.
 {% endhint %}
 
 ## An alphabetical list of our current WorkGroups

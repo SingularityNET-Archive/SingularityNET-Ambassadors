@@ -2,7 +2,7 @@
 
 ### Where do Ambassador Program rewards come from?
 
-SingularityNET’s Supervisory Council gives 1/3 of its allocation to the Ambassador program. This is currently 48,086 AGIX monthly for Q3, 2024. Any unspent budget carries over to the following month(s).
+SingularityNET’s Supervisory Council gives 1/3 of its allocation to the Ambassador program. This is currently 48,086 AGIX monthly for Q4, 2024. Any unspent budget carries over to the following month(s).
 
 This is distributed to the WorkGroups according to the funding requests they have submitted, in line with their quarterly budgets. WorkGroups might reward members directly for their work, or create Dework bounties.
 
