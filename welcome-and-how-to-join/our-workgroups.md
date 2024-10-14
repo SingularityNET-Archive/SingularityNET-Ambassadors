@@ -1,5 +1,7 @@
 # Our WorkGroups
 
+
+
 {% hint style="info" %}
 **NOTE:** Workgroups change from time to time - new ones might start, and old ones might stop meeting. So always check [the Calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com) - the most up-to-date source - to see if a meeting is actually happening; and note that some groups only meet once every 2 weeks.
 
@@ -121,8 +123,8 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Connects technology enthusiasts and builders of all kinds: software engineers, researchers, data scientists, analysts, and thinkers. Researches and builds new ideas, tools and processes. \
 **Skills you can use or learn here:** Ideation; group discussion; gain an insight into the Program; using AI tools.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1NBVfcnzyIzWWG3Ajxobj\_pfANbm8oYkvTW8IMTYP624/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1uajk1OgrujA-ke6jP\_TJ4-JsNw7RYAwS7khqgn3ofE4/edit?usp=sharing)
 
 ***
 
@@ -131,40 +133,40 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** Discusses strategies beneficial to other workgroups and guilds in the Ambassador program on a visionary or 10,000-foot level.\
 **Skills you can use or learn here:** Ideation; discussion; community engagement.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Repor**](https://docs.google.com/document/d/1ehGNXP7O4l9bfviUsGUaL2EplWsKg9AH4Qf3uHOsKNo/edit#heading=h.ybfi2uikflvv)**t**\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1fs4p6fR13u0OEPiDSmd8Q3iSW-M-UjUN2ho0AHUOKM8/edit?gid=0#gid=0)
 
 ### **Translation WorkGroup** ⁠📜
 
 **What it does:** Translates SingularityNET ecosystem articles into various languages for the community.\
 **Skills you can use or learn here:** Translation; managing your own workload; working to a brief.\
 **How to join:** This group doesn't hold meetings; translators work by themselves on tasks that they have signed up for on Dework. If you're interested, apply to [this Dework task](https://app.dework.xyz/singularitynet-ambas/test-38287?taskId=29398e2a-f7f3-4341-974c-70ae92f3c610).\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1llxmDHlq-k9hI6FcyD3nl9yRCnNBG2qAYjPQ\_k8G9-I/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1so-KW-g57JEAg2zjANDqIefnkNmkJmXldIUXAa5ni2U/edit?usp=drivesdk)
 
 ### **Treasury Guild** ⁠🏦
 
 **What it does:** Develops Ambassador program rules around budgets, payment of completed tasks and anything related to financial activities. \
 **Skills you can use or learn here:** Financial planning and management; monitoring and evaluation of funding; on-chain financial records; how to use the program's Treasury system.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1acxnPRihpShLFF4visFPrkr32U\_Eizge9HBdOon4qiQ/edit)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4/edit?gid=266201789#gid=266201789)
 
 ### **Video WorkGroup** ⁠📽
 
 **What it does:** Produces videos for the Ambassador program and manages video content.\
 **Skills you can use or learn here:** Video making and editing; working to a brief.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1yT7ZK2VTlAbvPcizkMAsCgS-2sJ\_TZ-IcDtgxrgZr7Y/edit#heading=h.1ooa0j1dxhvv)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1m3H2V7GPw5XGwpvtB5lizEHwHQTZOCe-\_tqDCKysrJU/edit?gid=0#gid=0)
 
 ### **Writers' WorkGroup** ⁠✍
 
 **What it does:** A group for those interested in writing articles for the Ambassador program. \
 **Skills you can use or learn here:** Writing to a brief; editing.\
 **How to join:** Attend meetings. There is a tiered structure for contributions, and you’ll need to pass a skills test to be a scribbler and be able to take up Writers’ Group bounties. \
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1cqzXDc73Fx1eZdQlEA8lj9YBag-h6Zj9Si9bI18hQLY/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1LDOqqcp3bQFgQFdzn2hgZsBl47WMBX0HJ4\_DJzOVyIw/edit?usp=sharing)
 
 ***
 
