@@ -15,32 +15,32 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** This group is dedicated to expanding the SingularityNet footprint in Africa. \
 **Skills you can use or learn here:** Community Building and Engagement\
 **How to join:** Attend meetings. Everyone’s welcome - especially if you are from any African community or desire to propagate SingularityNet’s mission within your immediate African community/region.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/15CpHTYzKYdZHR2ATf4vh_aruE4wDlsW0ZUc0kpt-UGU/edit?usp=drive_link)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1XOM0dSHX4RxPdwEkdQBe0AGVgxME7H1liVVGHjZ5FD0/edit?usp=drivesdk)
 
 ### **AI Ethics WorkGroup 🧾**
 
 **What it does:** The AI Ethics Workgroup is working alongside an initiative from the SingularityNET Foundation (see Global Ethics Initiative: [https://shorturl.at/cPDfn](https://shorturl.at/cPDfn)) to research ordinary people’s views about the ethics that should govern the use of AI. \
 **Skills you can use or learn here:** Community research \
 **How to join:** Attend meetings\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1qX06HtyTIO-a_jEpp8XnaO-V9RHvfAPt16cx2K3o8iw/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/19JPcJTBLct0xeGhVnxNEnsaoXqkE9SKMjWnwAqZ7GRI/edit?usp=sharing)
 
 ### **AI Sandbox/Think Tank WorkGroup 🧪**
 
 **What it does:** A practical and dynamic environment where individuals can openly and safely showcase, experiment with, and refine their AI tool sets. \
 **Skills you can use or learn here:** \
 **How to join:** Attend meetings\
-**Most recent Quarterly Report**\
-**Most recent budget request**&#x20;
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1LEGDMIj7fmLvTsCy0rbvop5TMC-kZt-AYCZIlU4Cavw/edit?usp=sharing)\
+[**Most recent budget request** ](https://docs.google.com/spreadsheets/d/1533H_uqak_S1ib4sUON5mBjqkXN3DHcRYLl6cVVymWg/edit?usp=sharing)
 
 ### **Archives WorkGroup** ⁠📑
 
 **What it does:** Keeps an archival record of Ambassador Program meetings, and explores how to use LLMs (large language models) to make records searchable.\
 **Skills you can use or learn here:** Record keeping; archival theory and practice; how to manage a project on GitHub; AI tool development; engaging the community with its own history.\
 **How to join:** Attend meetings. You will ideally need to join our GitHub too - ask for help in our Discord channel if needed.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1XDezIhuovjDfsyAZ-kA97Ox_WOHphXDjS_nhlvoLkNo/edit?usp=sharing)[\
+**Most recent budget request**](https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing)
 
 ### **Education Guild** ⁠📚&#x20;
 
