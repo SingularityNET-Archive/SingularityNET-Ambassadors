@@ -39,6 +39,7 @@
 
 ## WorkGroups Space
 
+* [Process Guild](workgroups-space/process-guild.md)
 * [Storage: our open Google Drive folder](workgroups-space/open-google-drive-folder.md)
 * [📽️ Video Workgroup](workgroups-space/video-workgroup/README.md)
   * [⚖️ Structure and Governance](workgroups-space/video-workgroup/structure-and-governance/README.md)
@@ -71,11 +72,11 @@
     * [Make a video](workgroups-space/video-workgroup/video-projects/make-a-video.md)
   * [✅ Acceptance criteria for projects](workgroups-space/video-workgroup/acceptance-criteria-for-projects.md)
   * [❓ Q\&A](workgroups-space/video-workgroup/q-and-a.md)
-  * [📁 Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R\_2rlvH5JSDVgEIKy0P2u)
+  * [📁 Content Folder](https://drive.google.com/drive/folders/1s6RrVpdXwt4R_2rlvH5JSDVgEIKy0P2u)
   * [🌐 Video Workgroup website](https://videoworkgroup.carrd.co/)
 * [🔁 Research and Development Guild](workgroups-space/research-and-development-guild/README.md)
   * [⚖️ Structure and Governance](workgroups-space/research-and-development-guild/structure-and-governance.md)
   * [📜 Recurrent Tasks](workgroups-space/research-and-development-guild/recurrent-tasks.md)
   * [❓ Q\&A](workgroups-space/research-and-development-guild/q-and-a.md)
-  * [📁 R\&D Guild folder](https://drive.google.com/drive/u/3/folders/176tiT3BSS5PLF\_nyiLBfuufm\_z7FPDcD)
+  * [📁 R\&D Guild folder](https://drive.google.com/drive/u/3/folders/176tiT3BSS5PLF_nyiLBfuufm_z7FPDcD)
 * [Onboarding WorkGroup](workgroups-space/onboarding-workgroup.md)
