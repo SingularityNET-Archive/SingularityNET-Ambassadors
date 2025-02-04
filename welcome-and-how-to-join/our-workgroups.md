@@ -5,7 +5,7 @@
 {% hint style="info" %}
 **NOTE:** Workgroups change from time to time - new ones might start, and old ones might stop meeting. So always check [the Calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com) - the most up-to-date source - to see if a meeting is actually happening; and note that some groups only meet once every 2 weeks.
 
-This page is updated quarterly. It was last updated on <mark style="color:red;">3rd December 2024</mark>.
+This page is updated quarterly. It was last updated on <mark style="color:red;">4th February 2025</mark>.
 {% endhint %}
 
 ## An alphabetical list of our current WorkGroups
@@ -47,8 +47,8 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** In the process of educating about all things related to AI, AGI & ASI education for the SNET community.\
 **Skills you can use or learn here:** Creating learning resources; community engagement.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/17iM3hiuS1y9qys3nQwzc8eJLFJtjfsZO0ucJ4qdPFuo/edit?tab=t.0)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1k0oGgYbmLHM2bonzwtRpk4zejnUBsoLfAQKWVa5aA_o/edit?usp=sharing)
 
 ***
 
@@ -57,32 +57,32 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** The guild helps to educate and onboard community members through gamification, currently working on developing VR(Virtual Reality) of Ambassador Program on Roblox + conduct gaming sessions for community members, and cover gamified projects launched by SNET through educational workshops.\
 **Skills you can use or learn here:** How operate different game making softwares, 3D Modeling and Animation, Marketing and Community Management , Adaptability, Learning Agility and many more.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1qPwC_Ic_diHSS20GJvfFFIhAKT2s6EQhGg6CIysQ_N0/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1P7QYwh5iB8FydKN_zEAxEdh0Wu4PqdyNU-MmF9v5RYA/edit?usp=sharing)
 
 ### **GitHub PBL WorkGroup** ⁠✨
 
 **What it does:** Creating project-based learning material about GitHub on the Andamio platform, in collaboration with Gimbalabs and Swarm Governance Guild. \
 **Skills you can use or learn here:** Planning and making learning resources; how to use the knowledge management platform _Andamio_; how to use GitHub.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1mGFj0ncsCFoS4eoOGBtCilFUjuMAcJXbh-7eJ4ItWSg/edit?tab=t.0#heading=h.ybfi2uikflvv)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1dPVsCGCuvp1nBxRM5zJteWZt7_J4ezbx6iB7Sc8VcHM/edit?usp=sharing)
 
 ### **Governance WorkGroup** ⁠💡
 
 **What it does:** Discusses governance issues for the Ambassador program, such as how we make decisions, how we reward contribution, how we decentralise, and how we ensure inclusion.\
 **Skills you can use or learn here:** Blockchain governance in theory and practice; decision-making; managing contribution and reputation systems; the ethics of decentralised governance; engaging the community with governance issues.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://app.gitbook.com/s/R9Z5bjrTTISgpKj9C4da/dework-task-guide)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)
 
 ### **Knowledge Base WorkGroup** ⁠🧩 (part of Process Guild)
 
 **What it does:** Organizing and creating an Ambassador Program Knowledge Base.\
 **Skills you can use or learn here:** Information management; working on Miro Board.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1o7oWhDiI4TScTqgWpORIO4_SMi-HMNw91LdOq9i4Fzo/edit?tab=t.0#heading=h.tnt9y8ec1dr3)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1oHaNJHd3kH2eCUOThlIQ_9wVjYePTZMYolXSErm3o-o/edit?gid=1811253903#gid=1811253903)
 
 ***
 
@@ -91,40 +91,40 @@ This page is updated quarterly. It was last updated on <mark style="color:red;">
 **What it does:** The LATAM Ambassadors Guild is a community-driven initiative dedicated to expanding SingularityNET's footprint in Latin America.\
 **Skills you can use or learn here:** Community Building and Engagement\
 **How to join:** Attend meetings. Join us and be part of the Decentralized AGI Revolution in LATAM.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1sKcXSyNPVDrnXW8gT7LS-zdTf3XE2-UnR6fwk68tn3w/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1bYcTpZr3DmaIt351KnjwcE8BkdkWJS5VPsDRC2WhxHs/edit?usp=sharing)
 
 ### **Marketing Guild** ⁠📣
 
 **What it does:** Works on the Ambassador program's media and outreach. Related workgroups are Writers, Video and Translation workgroups. \
 **Skills you can use or learn here:** Planning and carrying out marketing campaigns; social media engagement.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://app.gitbook.com/s/H3ZirP4r9HeGRXRuzT2v/)\
+[**Most recent budget request**](https://app.gitbook.com/s/VUVau6DaKUKpyAZBDT6Q/)
 
 ### **Onboarding WorkGroup** ⁠🎢
 
 **What it does:** We work on how to onboard new people into the Ambassador program.\
 **Skills you can use or learn here:** Community engagement; research and gathering community opinion; good place to start learning meeting facilitation and documentation skills.\
 **How to join:**  Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1PuK3ZsIc6iuDQEbmmE4E7-1MJYij5ydiXZYS-smKsAI/edit?usp=sharing)\
+[**Most recent budget request**](https://app.gitbook.com/s/R9Z5bjrTTISgpKj9C4da/pick-a-task-to-get-started)
 
 ### **Process Guild** ⁠🧩
 
 **What it does:** Helps to establish processes and prioritize Ambassador Program activities. includes members from Knowledge Base WorkGroup and GitHub PBL WorkGroup.\
 **Skills you can use or learn here:** How to plan and organise working processes; working on Miro Board.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1kFDtRrS5qLO2uiTlJbvutUAlNWOEqM9gV24hf81YtIc/edit?tab=t.0#heading=h.ybfi2uikflvv)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/1692CG0k57Lqzr2gmyMT7Eybsn_abfXrTw8iueHpaeWw/edit?gid=107431666#gid=107431666)
 
 ### **Research and Development Guild** ⁠🥚
 
 **What it does:** Connects technology enthusiasts and builders of all kinds: software engineers, researchers, data scientists, analysts, and thinkers. Researches and builds new ideas, tools and processes. \
 **Skills you can use or learn here:** Ideation; group discussion; gain an insight into the Program; using AI tools.\
 **How to join:** Attend meetings.\
-**Most recent Quarterly Report**\
-**Most recent budget request**
+[**Most recent Quarterly Report**](https://docs.google.com/document/d/1akc7Po2NOblWhKc1Ju9LtgVPdimRA9ChMu3SJ3jaU-E/edit?usp=sharing)\
+[**Most recent budget request**](https://docs.google.com/spreadsheets/d/11XT8cSjNPPwCu7HKrbro471zhX9C44mEDUSc1cFvHc8/edit?usp=sharing)
 
 ***
 
