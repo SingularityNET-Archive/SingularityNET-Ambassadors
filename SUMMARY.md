@@ -18,6 +18,8 @@
 * [How rewards are distributed](rewards-and-treasury/how-rewards-are-distributed.md)
 * [How we manage financial resources](rewards-and-treasury/how-we-manage-financial-resources.md)
 * [Treasury management rules](rewards-and-treasury/treasury-management-rules.md)
+* [Treasury Policies](rewards-and-treasury/treasury-policies/README.md)
+  * [Budget Change Request](rewards-and-treasury/treasury-policies/budget-change-request.md)
 
 ## Decentralising our governance
 
